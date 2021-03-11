@@ -1,0 +1,1174 @@
+﻿@model MVC_DynamicMenu.Models.NewIncidentLog
+@{
+    ViewData["Title"] = "Home page";
+}
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <h1 id="title" class="text-center">Form :Add A New Incident Log </h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form asp-action="" id="survey-form">
+        <div class="form-group">
+            <label id="name-label" asp-for="Client">Client</label>--
+            <input type="text"
+                   asp-for="Client"
+                   id="name"
+                   class="form-control"
+                   placeholder="Enter your name"
+                   required />
+
+
+        </div>
+
+
+        @*Date Start*@
+        <label asp-for="EntryDtae">Entry Date</label>
+        <input type="date" name="dateofbirth" id="dateofbirth">
+
+        @*Hierarchy Start*@
+        <div class="form-group">
+            <p>Hierarchy</p>
+            <select id="dropdown" asp-for="EntryDtae" class="form-control" required>
+                @*<option disabled selected value>Select current role</option>*@
+                <option value="student">New</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+        </div>
+
+        @*Type of Incident*@
+        <div class="form-group">
+
+            <p>Type of Incident</p>
+            <h6>Incident Type</h6>
+            <label>
+                <input asp-for="IncidentType"
+                       value="Accident"
+                       type="radio"
+                       class="input-radio"
+                       checked />Accident
+            </label>
+            <label>
+                <input asp-for="IncidentType"
+                       value="Medication"
+                       type="radio"
+                       class="input-radio" />Medication
+            </label>
+
+            <label>
+                <input asp-for="IncidentType"
+                       value="Benaviour"
+                       type="radio"
+                       class="input-radio" />Benaviour
+            </label>
+
+        </div>
+
+        @*General Information*@
+        <p>General Information</p>
+        <h6>Incident Date</h6>
+
+        <label asp-for="IncidentDate">Entry Date</label>
+        <input type="date" asp-for="IncidentDate" id="dateofbirth">
+
+        <div class="form-group">
+            <label id="name-label" asp-for="IncidentTime">Time</label>
+            <input type="text"
+                   asp-for="IncidentTime"
+                   id="name"
+                   class="form-control"
+                   required />
+        </div>
+
+        <div class="form-group">
+
+
+            <h6>Location</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="IncidentLocation"></textarea>
+        </div>
+
+        <div class="form-group">
+
+
+            <h6>Emergency Assistance</h6>
+            <label>
+                <input asp-for="EmergencyAssistance"
+                       value="Ambulance"
+                       type="radio"
+                       class="input-radio"
+                       checked />Ambulance
+            </label>
+            <label>
+                <input asp-for="EmergencyAssistance"
+                       value="Fire Brigade"
+                       type="radio"
+                       class="input-radio" />Fire Brigade
+            </label>
+
+            <label>
+                <input asp-for="EmergencyAssistance"
+                       value="Police"
+                       type="radio"
+                       class="input-radio" />Police
+            </label>
+            <label>
+                <input asp-for="EmergencyAssistance"
+                       value="Security Guards"
+                       type="radio"
+                       class="input-radio" />Security Guards
+            </label>
+
+        </div>
+
+        <div class="form-group">
+
+
+            <h6>Police Involvement</h6>
+            <label>
+                <input asp-for="PoliceInvolvement"
+                       value="Attended"
+                       type="radio"
+                       class="input-radio"
+                       checked />Attended
+            </label>
+            <label>
+                <input asp-for="PoliceInvolvement"
+                       value="Bradcast"
+                       type="radio"
+                       class="input-radio" />Bradcast
+            </label>
+
+            <label>
+                <input asp-for="PoliceInvolvement"
+                       value="Reported"
+                       type="radio"
+                       class="input-radio" />Reported
+            </label>
+
+
+        </div>
+
+        <div class="form-group">
+
+
+            <h6>Person Search</h6>
+            <label>
+                <input asp-for="PersonSearch"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="PersonSearch"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+        </div>
+
+        <div class="form-group">
+
+
+            <h6>Person Room Search</h6>
+            <label>
+                <input asp-for="PersonRoomSearch"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="PersonRoomSearch"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+        </div>
+
+        @*PRN*@
+
+        <div class="form-group">
+
+            <p>PRN</p>
+            <h6>PRN Approved</h6>
+            <label>
+                <input asp-for="PRN_Approved"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="PRN_Approved"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>PRN Provided</h6>
+            <label>
+                <input asp-for="PRNProvided"
+                       value="Not Provided"
+                       type="radio"
+                       class="input-radio"
+                       checked />Not Provided
+            </label>
+            <label>
+                <input asp-for="PRNProvided"
+                       value="Provided"
+                       type="radio"
+                       class="input-radio" />Provided
+            </label>
+            <label>
+                <input asp-for="PRNProvided"
+                       value="Refused"
+                       type="radio"
+                       class="input-radio" />Refused
+            </label>
+
+        </div>
+
+        @*Incident Summary*@
+        <div class="form-group">
+
+            <p> Incident Summary</p>
+            <h6>What was happening in the time before the incident?</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="What_was_happening_in_the_time_Before_the_Incident"></textarea>
+        </div>
+
+        <div class="form-group">
+
+            <p> Incident Summary</p>
+            <h6>Behaviour</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Behaviour"></textarea>
+        </div>
+        <div class="form-group">
+
+            <p> Incident Summary</p>
+            <h6>How did you de-escalate the incident?</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="How_did_you_de_escalate_the_incident"></textarea>
+        </div>
+
+        <div class="form-group">
+
+            <p> Incident Summary</p>
+            <h6>Possible Function</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="PossibleFunction"></textarea>
+        </div>
+
+        <div class="form-group">
+
+            <h6>Consequence</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Consequence"></textarea>
+        </div>
+
+
+        @*Low*@
+
+        <div class="form-group">
+
+            <p>Low</p>
+            <h6>Agitation/Hyperarousal</h6>
+            <label>
+                <input asp-for="Agitation_Hyperarousal"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Agitation_Hyperarousal"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Attempted/Minor Property Damage</h6>
+            <label>
+                <input asp-for="Attempted_Minor"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Attempted_Minor"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+            <h6>Client Complaint or issue</h6>
+            <label>
+                <input asp-for="Client_Complaint_or_issue"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Client_Complaint_or_issue"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+            <h6>Disruption to Routine</h6>
+            <label>
+                <input asp-for="Disruption_to_Routine"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Disruption_to_Routine"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+            <h6>Incident Involving Family</h6>
+            <label>
+                <input asp-for="IncidentInvolvingFamily"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="IncidentInvolvingFamily"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Inappropriate or Anti-Social Client Interaction</h6>
+            <label>
+                <input asp-for="Inappropriate_or_Anti_Social_Client_Interaction"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Inappropriate_or_Anti_Social_Client_Interaction"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Injury -  Minor Client Injury - First Aid Only</h6>
+            <label>
+                <input asp-for="Injury_Minor_Client_Injury_First_Aid_Only"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Injury_Minor_Client_Injury_First_Aid_Only"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Non - Compliance/Task Refusal</h6>
+            <label>
+                <input asp-for="Non_Compliance_Refusal"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Non_Compliance_Refusal"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+
+        </div>
+
+
+        @*Mediam*@
+
+        <div class="form-group">
+
+            <p>Mediam</p>
+            <h6>Agitation/Hyperarousal</h6>
+            <label>
+                <input asp-for="Agitation_Hyperarousal"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Agitation_Hyperarousal"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Attempted/Minor Property Damage</h6>
+            <label>
+                <input asp-for="Attempted_Minor_Property_Damage"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Attempted_Minor_Property_Damage"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+            <h6>Client Complaint or issue</h6>
+            <label>
+                <input asp-for="Client_Complaint_or_issue"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Client_Complaint_or_issue"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+            <h6>Disruption to Routine</h6>
+            <label>
+                <input asp-for="Disruption_to_Routine"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Disruption_to_Routine"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+            <h6>Incident Involving Family</h6>
+            <label>
+                <input asp-for="IncidentInvolvingFamily"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="IncidentInvolvingFamily"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Inappropriate or Anti-Social Client Interaction</h6>
+            <label>
+                <input asp-for="Inappropriate_or_Anti_Social_Client_Interaction"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Inappropriate_or_Anti_Social_Client_Interaction"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Injury -  Minor Client Injury - First Aid Only</h6>
+            <label>
+                <input asp-for="Injury_Minor_Client_Injury_First_Aid_Only"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Injury_Minor_Client_Injury_First_Aid_Only"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Non - Compliance/Task Refusal</h6>
+            <label>
+                <input asp-for="Non_Compliance_Task_Refusal"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Non_Compliance_Task_Refusal"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+
+        </div>
+
+        @*High*@
+
+        <div class="form-group">
+
+            <p>Low</p>
+            <h6>Absconding Requiring Missing Persons Report</h6>
+            <label>
+                <input asp-for="Absconding_Requiring_Missing_Persons_Report"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Absconding_Requiring_Missing_Persons_Report"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Assault Requiring Medical Support</h6>
+            <label>
+                <input asp-for="Assault_Requiring_Medical_Support"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Assault_Requiring_Medical_Support"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+            <h6>Behaviour or Challenges Attracting Community Concern</h6>
+            <label>
+                <input asp-for="Behaviour_or_Challenges_Attracting_Community_Concern"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Behaviour_or_Challenges_Attracting_Community_Concern"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+            <h6>Behaviour or Challenges Attracting Media Attention</h6>
+            <label>
+                <input asp-for="Behaviour_or_Challenges_Attracting_Media_Attention"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Behaviour_or_Challenges_Attracting_Media_Attention"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+            <h6>Criminal Behaviour Resulting in Police Engagment or Charges</h6>
+            <label>
+                <input asp-for="Criminal_Behaviour_Resulting_in_Police_Engagment_or_Charges"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Criminal_Behaviour_Resulting_in_Police_Engagment_or_Charges"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Disclosure Requireing Mandatory Reporting</h6>
+            <label>
+                <input asp-for="Disclosure_Requireing_Mandatory_Reporting"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Disclosure_Requireing_Mandatory_Reporting"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+
+        </div>
+
+        @*Critical*@
+
+        <div class="form-group">
+
+            <p>Critical</p>
+            <h6>Abuse or Negiect of the Client</h6>
+            <label>
+                <input asp-for="Abuse_or_neglect_of_the_Client_"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Abuse_or_neglect_of_the_Client_"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Criminal Behaviour Resulting in Client Being Held in Custody</h6>
+            <label>
+                <input asp-for="Criminal_Behaviour_Resulting_in_client_being_held_in_Custody"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Criminal_Behaviour_Resulting_in_client_being_held_in_Custody"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+            <h6>Death or Fatal Injury of a Client</h6>
+            <label>
+                <input asp-for="Death_or_fatal_injury_of_a_client_serious_injury_of_the_client"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Death_or_fatal_injury_of_a_client_serious_injury_of_the_client"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+            <h6>Unlawful Sexual or Physical Contact with or Assault of the Client</h6>
+            <label>
+                <input asp-for="Unlawful_sexual_or_physical_contact_with_or_assault_of_the_client"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Unlawful_sexual_or_physical_contact_with_or_assault_of_the_client"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+            <h6>Sexual Misconduct Committed Against or in the Presence of the Client including Grooming of the Client for Sexual Activity</h6>
+            <label>
+                <input asp-for="Sexual_misconduct_committed_against_or_in_the_presence_of_the_client_including_grooming_of_the_client_for_sexual_activity"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Sexual_misconduct_committed_against_or_in_the_presence_of_the_client_including_grooming_of_the_client_for_sexual_activity"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Unauthorised Use of Restricted Practice in Relation to the Client</h6>
+            <label>
+                <input asp-for="Unautherized_use_of_restriced_practice_in_relation_to_the_client"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Unautherized_use_of_restriced_practice_in_relation_to_the_client"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Reportable Conduct by a Carer/Staff Member</h6>
+            <label>
+                <input asp-for="Reportable_conduct_by_a_carer_staff_member"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Reportable_conduct_by_a_carer_staff_member"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+
+        </div>
+
+        @*Rating of Incident*@
+
+        <div class="form-group">
+
+            <p> Instruction</p>
+            <h6>Car 1 - High Critical</h6>
+            <h6>Car 2 - Written Report</h6>
+
+            <h6>Category of Incident</h6>
+            <label>
+                <input asp-for="Category_of_incident"
+                       value="Car 1"
+                       type="radio"
+                       class="input-radio"
+                       checked />Car 1
+            </label>
+            <label>
+                <input asp-for="Category_of_incident"
+                       value="Car 2"
+                       type="radio"
+                       class="input-radio" />Car 2
+            </label>
+
+            <h6>Rating of Incident</h6>
+            <label>
+                <input asp-for="Rating_of_Incident"
+                       value="Low"
+                       type="radio"
+                       class="input-radio"
+                       checked />Low
+            </label>
+            <label>
+                <input asp-for="Rating_of_Incident"
+                       value="Medium"
+                       type="radio"
+                       class="input-radio" />Medium
+            </label>
+            <label>
+                <input asp-for="Rating_of_Incident"
+                       value="High"
+                       type="radio"
+                       class="input-radio" />High
+            </label>
+            <label>
+                <input asp-for="Rating_of_Incident"
+                       value="Critical"
+                       type="radio"
+                       class="input-radio" />Critical
+            </label>
+
+        </div>
+
+        @*Significat Harm*@
+
+        <div class="form-group">
+
+            <p>Significat Harm</p>
+
+            <h6>Risk of Signifacant Harm reported</h6>
+            <label>
+                <input asp-for="Risk_of_significant_ham_reported"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Risk_of_significant_ham_reported"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+
+        </div>
+
+
+        @*Physical Intervention - Restricted Practice*@
+
+        <div class="form-group">
+
+            <p>Physical Intervention - Restricted Practice</p>
+
+            <h6>Physical Intervention</h6>
+            <label>
+                <input asp-for="PhysicalIntervention"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="PhysicalIntervention"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+
+        </div>
+
+        <div class="form-group">
+
+
+
+            <h6>Type of Physical Intervention</h6>
+            <label>
+                <input asp-for="Type_of_physical_intervention"
+                       value="Blocked"
+                       type="radio"
+                       class="input-radio"
+                       checked />Blocked
+            </label>
+            <label>
+                <input asp-for="Type_of_physical_intervention"
+                       value="Escorted"
+                       type="radio"
+                       class="input-radio" />Escorted
+            </label>
+            <label>
+                <input asp-for="Type_of_physical_intervention"
+                       value="Seated"
+                       type="radio"
+                       class="input-radio" />Seated
+            </label>
+            <label>
+                <input asp-for="Type_of_physical_intervention"
+                       value="Standing"
+                       type="radio"
+                       class="input-radio" /> Standing
+            </label>
+            <label>
+                <input asp-for="Type_of_physical_intervention"
+                       value="Other(Specify)"
+                       type="radio"
+                       class="input-radio" />Other(Specify)
+            </label>
+
+
+        </div>
+
+
+        <div class="form-group">
+            <label id="name-label" asp-for="How_long_did_the_physical_intervention_last">How long did the physical intervention last</label>
+            <input type="text"
+                   asp-for="How_long_did_the_physical_intervention_last"
+                   id="name"
+                   class="form-control"
+                   required />
+        </div>
+        <div class="form-group">
+
+
+
+            <h6>Client Injury</h6>
+            <label>
+                <input asp-for="ClientInjury"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="ClientInjury"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+
+        </div>
+        <div class="form-group">
+
+
+
+            <h6>Staff Injury</h6>
+            <label>
+                <input asp-for="StaffInjury"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="StaffInjury"
+                       value="Family"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+
+        </div>
+
+        @*Legal Intervention*@
+        <div class="form-group">
+
+            <p>Has the client been offered diffusion or debrienf</p>
+
+            <h6>Physical Intervention</h6>
+            <label>
+                <input asp-for="PhysicalIntervention"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="PhysicalIntervention"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <div class="form-group">
+
+                <h6>Has the client disclosed or made accusation of assault or abuse</h6>
+
+
+                <label>
+                    <input asp-for="Has_the_client_disclosed_or_made_accusation_of_assult_or_abuse"
+                           value="Yes"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="Has_the_client_disclosed_or_made_accusation_of_assult_or_abuse"
+                           value="No"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+
+
+            </div>
+            <div class="form-group">
+
+                <h6>Has the client (or Guardian) been made aware of their right to invoive the police and potentially press charges</h6>
+
+
+                <label>
+                    <input asp-for="Has_the_client_or_guardian_been_made_aware_of_their_right_to_involve_the_police_and_potentially_press_changes"
+                           value="Yes"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="Has_the_client_or_guardian_been_made_aware_of_their_right_to_involve_the_police_and_potentially_press_changes"
+                           value="No"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+
+
+            </div>
+            <div class="form-group">
+
+                <h6>Has the staff been offered diffusion or debrief</h6>
+
+
+                <label>
+                    <input asp-for="Has_the_staff_been_offered_diffusion_or_debrief"
+                           value="Yes"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="Has_the_staff_been_offered_diffusion_or_debrief"
+                           value="No"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+                <div class="form-group">
+
+                    <h6>Has the staff member made aware of their rights of invoive the police and potentially press charges</h6>
+
+                    <label>
+                        <input asp-for="Has_the_client_or_guardian_been_made_aware_of_their_right_to_involve_the_police_and_potentially_press_changes"
+                               value="Yes"
+                               type="radio"
+                               class="input-radio"
+                               checked />Yes
+                    </label>
+                    <label>
+                        <input asp-for="Has_the_client_or_guardian_been_made_aware_of_their_right_to_involve_the_police_and_potentially_press_changes"
+                               value="No"
+                               type="radio"
+                               class="input-radio" />No
+                    </label>
+
+
+                </div>
+
+
+            </div>
+        </div>
+
+        @*Follow Up*@
+
+        <div class="form-group">
+
+            <p>Follow Up</p>
+
+            <h6>Follow up required</h6>
+
+
+            <label>
+                <input asp-for="FollowUpRequired"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="FollowUpRequired"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Who On Call Contacted</h6>
+
+
+            <label>
+                <input asp-for="Who_On_Call_Contacted"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Who_On_Call_Contacted"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+
+        </div>
+
+        @*On Call Request/Response*@
+
+        <div class="form-group">
+
+            <p>On Call Request/Response</p>
+            <h6>Nature of Call</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="NatureOfAll"></textarea>
+        </div>
+
+        <div class="form-group">
+
+            <h6>Actions</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Actions"></textarea>
+        </div>
+        <div class="form-group">
+
+
+            <h6>Result</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Result"></textarea>
+        </div>
+        <div class="form-group">
+
+
+            <h6>Follow Up</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="FollowUp"></textarea>
+        </div>
+
+
+
+
+
+        @*Completion & Sign-off*@
+
+
+        <div class="form-group">
+            <p>Completion & Sign-off</p>
+            <label id="name-label" asp-for="StaffMember">Staff Member Name</label>
+            <input type="text"
+                   asp-for="StaffMember"
+                   id="name"
+                   class="form-control"
+                   required />
+        </div>
+
+
+        <div class="form-group">
+
+            <h6>Signature</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Signature"></textarea>
+        </div>
+        <div class="form-group">
+            <p>Completion & Sign-off</p>
+            <label id="name-label" asp-for="Name">Name</label>
+            <input type="text"
+                   asp-for="Name"
+                   id="name"
+                   class="form-control"
+                   required />
+        </div>
+
+
+        <form id="survey-form">
+
+
+
+
+          
+
+            <script type="text/javascript">
+                const projectName = 'survey-form';
+
+            </script>
+        </form>
+
+    </form>
+</div>
+
+
+
+

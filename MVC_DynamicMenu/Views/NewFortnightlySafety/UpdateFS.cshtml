@@ -1,0 +1,236 @@
+﻿@model MVC_DynamicMenu.Models.NewFortnightlySafety
+@{
+    ViewData["Title"] = "Home page";
+}
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <h1 id="title" class="text-center"> Add A Fortnightly Safety Equipment Check</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form asp-action="UpdateFS" id="survey-form">
+        <div class="form-group">
+            <label id="name-label" asp-for="Unite">Unit</label>
+            <input type="text"
+                   asp-for="Unite"
+                   id="name"
+                   class="form-control"
+                   placeholder="Enter your name"
+                   
+                   required />
+        </div>
+        @*Date Start*@
+        <label asp-for="Entry_date">Entry Date</label>
+        <input type="date" asp-for="Entry_date" id="dateofbirth">
+
+        <div class="form-group">
+            <p>Safety Equipment Check Form</p>
+            <h6>What this is for:</h6>
+            <h6>This form is a record that mandatory checks have been completed and that workplaces are compliant with safety requirments. It is essential that if any equipment is missing or any issues arise during the check.That these are raised on this form and your coodinator/line manager is informed immediatley.</h6>
+            <h6>Any items that are faulty out of date or missing MUST be noted in the comments section.</h6>
+
+
+            <label asp-for="Week_ending_date">Week Ending Date</label>
+            <input type="date" asp-for="Week_ending_date" id="dateofbirth">
+
+        </div>
+
+        <div class="form-group">
+
+            <p>Safety Equipment</p>
+            <h6>Test Smoke Detector and identify below</h6>
+            <label>
+                <input asp-for="Test_smoke_detectiors_and_identify_below"
+                       value="Smoke detector 1 teseted,Working"
+                       type="radio"
+                       class="input-radio"
+                       checked />Smoke detector 1 teseted,Working
+            </label>
+            <label>
+                <input asp-for="Test_smoke_detectiors_and_identify_below"
+                       value="Smoke detector 1 teseted,Not Working"
+                       type="radio"
+                       class="input-radio" />Smoke detector 1 teseted,Not Working
+            </label>
+
+            <label>
+                <input asp-for="Test_smoke_detectiors_and_identify_below"
+                       value="Smoke detector 2 teseted,Working"
+                       type="radio"
+                       class="input-radio" />Smoke detector 2 teseted,Working
+            </label>
+            <label>
+                <input asp-for="Test_smoke_detectiors_and_identify_below"
+                       value="Smoke detector 2 teseted,Not Working"
+                       type="radio"
+                       class="input-radio" />Smoke detector 2 teseted,Not Working
+            </label>
+            <label>
+                <input asp-for="Test_smoke_detectiors_and_identify_below"
+                       value="Smoke detector 3 teseted,Working"
+                       type="radio"
+                       class="input-radio" />Smoke detector 3 teseted,Working
+            </label>
+            <label>
+                <input asp-for="Test_smoke_detectiors_and_identify_below"
+                       value="Smoke detector 3 teseted,Not Working"
+                       type="radio"
+                       class="input-radio" />Smoke detector 3 teseted,Not Working
+            </label>
+
+            <h6>Have the fire extinguisher & the fire Blanket been inspected in the last 6 months?</h6>
+            <label>
+                <input asp-for="How_the_fire_extingusher_and_the_fire_blanket_been_inspected_in_the_last_6_months"
+                       value="Extinguisher 1,inspected in last 6 months."
+                       type="radio"
+                       class="input-radio"
+                       checked />Extinguisher 1,inspected in last 6 months.
+            </label>
+            <label>
+                <input asp-for="How_the_fire_extingusher_and_the_fire_blanket_been_inspected_in_the_last_6_months"
+                       value="Extinguisher 1,not inspected in last 6 months."
+                       type="radio"
+                       class="input-radio" />Extinguisher 1,not inspected in last 6 months.
+            </label>
+
+            <label>
+                <input asp-for="How_the_fire_extingusher_and_the_fire_blanket_been_inspected_in_the_last_6_months"
+                       value="Extinguisher 2,inspected in last 6 months."
+                       type="radio"
+                       class="input-radio" />Extinguisher 2,inspected in last 6 months.
+            </label>
+            <label>
+                <input asp-for="How_the_fire_extingusher_and_the_fire_blanket_been_inspected_in_the_last_6_months"
+                       value="Extinguisher 2,not inspected in last 6 months."
+                       type="radio"
+                       class="input-radio" />Extinguisher 2,not inspected in last 6 months.
+            </label>
+            <label>
+                <input asp-for="How_the_fire_extingusher_and_the_fire_blanket_been_inspected_in_the_last_6_months"
+                       value="Fire Blanket,inspected in last 6 months."
+                       type="radio"
+                       class="input-radio" />Fire Blanket,inspected in last 6 months.
+            </label>
+            <label>
+                <input asp-for="How_the_fire_extingusher_and_the_fire_blanket_been_inspected_in_the_last_6_months"
+                       value="Fire Blanket,not inspected in last 6 months."
+                       type="radio"
+                       class="input-radio" />Fire Blanket,not inspected in last 6 months.
+            </label>
+
+            <h6>Glass/Spill Management Kits</h6>
+            <label>
+                <input asp-for="Glass_Sprill_management_kits"
+                       value="Leather Gardening gloves"
+                       type="radio"
+                       class="input-radio"
+                       checked />Leather Gardening gloves
+            </label>
+            <label>
+                <input asp-for="Glass_Sprill_management_kits"
+                       value="Safety Glasses"
+                       type="radio"
+                       class="input-radio" />Safety Glasses
+            </label>
+
+            <label>
+                <input asp-for="Glass_Sprill_management_kits"
+                       value="Dust pan & broom."
+                       type="radio"
+                       class="input-radio" />Dust pan & broom.
+            </label>
+            <label>
+                <input asp-for="Glass_Sprill_management_kits"
+                       value="Rubber Gloves"
+                       type="radio"
+                       class="input-radio" />Rubber Gloves
+            </label>
+            <label>
+                <input asp-for="Glass_Sprill_management_kits"
+                       value="Plastic bucket(with lid)"
+                       type="radio"
+                       class="input-radio" />Plastic bucket(with lid)
+            </label>
+            <label>
+                <input asp-for="Glass_Sprill_management_kits"
+                       value="Garbage bags(with ties)"
+                       type="radio"
+                       class="input-radio" />Garbage bags(with ties)
+            </label>
+            <label>
+                <input asp-for="Glass_Sprill_management_kits"
+                       value="Paper Tower"
+                       type="radio"
+                       class="input-radio" />Paper Tower
+            </label>
+            <label>
+                <input asp-for="Glass_Sprill_management_kits"
+                       value="Plastic Apron"
+                       type="radio"
+                       class="input-radio" />Plastic Apron
+            </label>
+
+            <h6>First Aid Kit contents checked:within their use-by date and in working condition.</h6>
+            <label>
+                <input asp-for="First_aid_kit_contents_Ckecked"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="First_aid_kit_contents_Ckecked"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Cyclone kit contents have been checked, are within their use-by date and are usable.</h6>
+            <label>
+                <input asp-for="Cylcone_kit_contents_have_been_cheked"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Cylcone_kit_contents_have_been_cheked"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+        </div>
+
+
+        <div class="form-group">
+            <p>Completion & Sign-off</p>
+            <label id="name-label" asp-for="Staff">Staff Member Name</label>
+            <input type="text"
+                   name="name"
+                   id="name"
+                   class="form-control"
+                   placeholder="Select Staff"
+                   required />
+        </div>
+
+        <div class="form-group">
+            <button type="submit" id="submit" class="submit-button">
+                Submit
+            </button>
+        </div>
+
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+    </form>
+</div>
+
+
+
+
+

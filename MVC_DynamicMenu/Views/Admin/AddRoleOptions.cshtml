@@ -1,0 +1,204 @@
+﻿@model List<RoleOptions>
+
+@{
+    ViewData["Title"] = "AddRoleOptions";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    List<RoleMenus> menu = ViewBag.menus;
+    Roles rl = ViewBag.role;
+
+}
+
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <h1 id="title" class="text-center">ADD ROLE OPTTIONS</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form method="post">
+        @for (int i = 0; i < menu.Count; i++)
+        {
+            <label>@menu[i].Menu</label>
+            @if (menu[i].Url != "#")
+            {
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <table class="table badge-light" style="word-wrap: break-word; table-layout: fixed; width: 100%;">
+                            <thead>
+                                <tr>
+                                    <th colspan="2">
+                                        View
+                                    </th>
+                                    <th colspan="2">
+                                        Add
+                                    </th>
+                                    <th colspan="2">
+                                        Edit
+                                    </th>
+                                    <th colspan="2">
+                                        Delete
+                                    </th>
+                                    <th colspan="2">
+                                        Approve
+                                    </th>
+                                    <th colspan="2">
+                                        Add Folder
+                                    </th>
+                                    <th colspan="2">
+                                        Edit Folder
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        Yes
+                                    </th>
+                                    <th>
+                                        NO
+                                    </th>
+                                    <th>
+                                        Yes
+                                    </th>
+                                    <th>
+                                        NO
+                                    </th>
+                                    <th>
+                                        Yes
+                                    </th>
+                                    <th>
+                                        NO
+                                    </th>
+                                    <th>
+                                        Yes
+                                    </th>
+                                    <th>
+                                        NO
+                                    </th>
+                                    <th>
+                                        Yes
+                                    </th>
+                                    <th>
+                                        NO
+                                    </th>
+                                    <th>
+                                        Yes
+                                    </th>
+                                    <th>
+                                        NO
+                                    </th>
+                                    <th>
+                                        Yes
+                                    </th>
+                                    <th>
+                                        NO
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <input type="radio" class="input-radio" style="width:0;" asp-for="@Model[i].View" value="1" />
+                                    </td>
+                                    <td>
+                                        <input type="radio" class="input-radio" style="width:0;" asp-for="@Model[i].View" value="0" />
+                                    </td>
+                                    <td>
+                                        <input type="radio" class="input-radio" style="width:0;" asp-for="@Model[i].Add" value="1" />
+                                    </td>
+                                    <td>
+                                        <input type="radio" class="input-radio" style="width:0;" asp-for="@Model[i].Add" value="0" />
+                                    </td>
+                                    <td>
+                                        <input type="radio" class="input-radio" style="width:0;" asp-for="@Model[i].Edit" value="1" />
+                                    </td>
+                                    <td>
+                                        <input type="radio" class="input-radio" style="width:0;" asp-for="@Model[i].Edit" value="0" />
+                                    </td>
+                                    <td>
+                                        <input type="radio" class="input-radio" style="width:0;" asp-for="@Model[i].Delete" value="1" />
+                                    </td>
+                                    <td>
+                                        <input type="radio" class="input-radio" style="width:0;" asp-for="@Model[i].Delete" value="0" />
+                                    </td>
+                                    <td>
+                                        <input type="radio" class="input-radio" style="width:0;" asp-for="@Model[i].Approve" value="1" />
+                                    </td>
+                                    <td>
+                                        <input type="radio" class="input-radio" style="width:0;" asp-for="@Model[i].Approve" value="0" />
+                                    </td>
+                                    <td>
+                                        <input type="radio" class="input-radio" style="width:0;" asp-for="@Model[i].addFolder" value="1" />
+                                    </td>
+                                    <td>
+                                        <input type="radio" class="input-radio" style="width:0;" asp-for="@Model[i].addFolder" value="0" />
+                                    </td>
+                                    <td>
+                                        <input type="radio" class="input-radio" style="width:0;" asp-for="@Model[i].EditFolder" value="1" />
+                                    </td>
+                                    <td>
+                                        <input type="radio" class="input-radio" style="width:0;" asp-for="@Model[i].EditFolder" value="0" />
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <input type="hidden" asp-for="@Model[i].RoleMenuId" value="@menu[i].MenuId" />
+                <input type="hidden" asp-for="@Model[i].RoleId" value="@rl.RoleId" />
+
+
+            }
+            else
+            {
+                <input type="hidden" asp-for="@Model[i].View" value="1" />
+                <input type="hidden" asp-for="@Model[i].RoleMenuId" value="@menu[i].MenuId" />
+                <input type="hidden" asp-for="@Model[i].RoleId" value="@rl.RoleId" />
+            }
+
+
+
+        }
+
+
+        <input type="submit" value="Submit" />
+    </form>
+    </div>
+    @*@foreach (var item in menu)
+        {
+            <label>@item.Menu</label>
+            @if (item.Url != "#")
+            {
+                <label>View</label>
+                <input type="checkbox" asp-for="@Model[l].View" value="1" />
+
+                <label>Add</label>
+                <input type="checkbox" asp-for="@Model[l].Add" value="1" />
+
+                <label>Edit</label>
+                <input type="checkbox" asp-for="@Model[l].Edit" value="1" />
+
+                <label>Delete</label>
+                <input type="checkbox" asp-for="@Model[l].Delete" value="1" />
+
+                <label>Approve</label>
+                <input type="checkbox" asp-for="@Model[l].Approve" value="1" />
+
+                <label>AddFolder</label>
+                <input type="checkbox" asp-for="@Model[l].addFolder" value="1" />
+
+                <label>EditFolder</label>
+                <input type="checkbox" asp-for="@Model[l].EditFolder" value="1" />
+
+                <input type="hidden" asp-for="@Model[l].RoleMenuId" value="@item.MenuId" />
+                <input type="hidden" asp-for="@Model[l].RoleId" value="@rl.RoleId" />
+
+
+
+
+            }
+            l++;
+        }*@

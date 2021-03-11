@@ -1,0 +1,128 @@
+﻿
+
+@model MVC_DynamicMenu.Models.Patient
+
+@{
+    ViewData["Title"] = "AddNewPatient";
+}
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <h1 id="title" class="text-center">Add A New Patient</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form asp-action="UpdatePatient" id="survey-form">
+
+        <input type="hidden" asp-for="PatientID" />
+        <div class="form-group">
+            <label asp-for="Full_Name" class="control-label"></label>
+            <input asp-for="Full_Name" class="form-control" />
+            <span asp-validation-for="Full_Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Address" class="control-label"></label>
+            <input asp-for="Address" class="form-control" />
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Age" class="control-label"></label>
+            <input asp-for="Age" class="form-control" />
+            <span asp-validation-for="Age" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Email" class="control-label"></label>
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Telephone" class="control-label"></label>
+            <input asp-for="Telephone" class="form-control" />
+            <span asp-validation-for="Telephone" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Gender" class="control-label"></label>
+            <input asp-for="Gender" class="form-control" />
+            <span asp-validation-for="Gender" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Supervisor" class="control-label"></label>
+            <input asp-for="Supervisor" class="form-control" />
+            <span asp-validation-for="Supervisor" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Emergency_Contact_Name" class="control-label"></label>
+            <input asp-for="Emergency_Contact_Name" class="form-control" />
+            <span asp-validation-for="Emergency_Contact_Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Emergency_Contact_No" class="control-label"></label>
+            <input asp-for="Emergency_Contact_No" class="form-control" />
+            <span asp-validation-for="Emergency_Contact_No" class="text-danger"></span>
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+
+
+
+
+
+        <div class="form-group">
+            <button type="submit" name="submit" class="submit-button">
+                Submit
+            </button>
+        </div>
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+    </form>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,221 @@
+﻿
+@model MVC_DynamicMenu.Models.LogSchedule
+@{
+    ViewData["Title"] = "Home page";
+}
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <h1 id="title" class="text-center">Service Log</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form asp-action="UpdateSL" id="survey-form">
+        <div class="form-group">
+            <label id="name-label" asp-for="Client_name">Participant Full Name</label>
+            <input type="text"
+                   asp-for="Client_name"
+                   id="name"
+                   class="form-control"
+                   placeholder="Enter your name"
+                   required />
+            <input type="hidden" asp-for="Reference"/>
+            <h6>Service</h6>
+            <select id="dropdown" asp-for="Service" class="form-control" required>
+                @*<option disabled selected value>Select current role</option>*@
+                <option value="student">In Home Support</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+
+            <label id="name-label" asp-for="Service_Provider">Service Provider</label>
+            <input type="text"
+                   asp-for="Service_Provider"
+                   id="name"
+                   class="form-control"
+                   required />
+        </div>
+
+
+
+        @*Hierarchy Start*@
+        <div class="form-group">
+            <p>Hierarchy</p>
+            <label id="name-label" asp-for="Hirarchy_Name">Hierarchy Name</label>
+            <input type="text"
+                   asp-for="Hirarchy_Name"
+                   id="name"
+                   class="form-control"
+                   required />
+        </div>
+
+
+
+
+        <div class="form-group">
+
+            <p>Schedule</p>
+            <label asp-for="Scheduled_start_date">Schedule Start Date</label>
+            <input type="date" asp-for="Scheduled_start_date" id="dateofbirth">
+
+            <label id="name-label" asp-for="Scheduled_start_time">Schedule Start Time</label>
+            <input type="text"
+                  asp-for="Scheduled_start_time"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <label asp-for="Scheduled_finish_date">Schedule Finish Date</label>
+            <input type="date" asp-for="Scheduled_finish_date" id="dateofbirth">
+
+            <label id="name-label" asp-for="Scheduled_finish_time">Schedule Finish Time</label>
+            <input type="text"
+                  asp-for="Scheduled_finish_time"
+                   id="name"
+                   class="form-control"
+                   required />
+
+
+
+
+
+            <label asp-for="Actual_start_date">Actual Start Date</label>
+            <input type="date" asp-for="Actual_start_date" id="dateofbirth">
+
+            <label id="name-label" asp-for="Actual_start_time">Actual Start Time</label>
+            <input type="text"
+                   asp-for="Actual_start_time"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <label asp-for="Actual_finish_date">Actual Finish Date</label>
+            <input type="date" asp-for="Actual_finish_date" id="dateofbirth">
+
+            <label id="name-label" asp-for="Actual_finish_time">Actual  Finish Time</label>
+            <input type="text"
+                   asp-for="Actual_finish_time"
+                   id="name"
+                   class="form-control"
+                   required />
+
+        </div>
+
+        @*Support Itam*@
+
+        <div class="form-group">
+
+            <h6>Spport Itam</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                     asp-for="Support_Item"></textarea>
+
+
+            <label id="name-label" asp-for="Ratio">Ratio</label>
+            <input type="text"
+                   asp-for="Ratio"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <h6>Biller Type</h6>
+            <select id="dropdown" asp-for="Biller_Type" class="form-control" required>
+                @*<option disabled selected value>Select current role</option>*@
+                <option value="student">NDIS</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+
+            <label id="name-label" asp-for="Qty">QTY</label>
+            <input type="text"
+                   asp-for="Qty"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <label id="name-label" asp-for="Unit_Price">Unit Price</label>
+            <input type="text"
+                   asp-for="Unit_Price"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <label id="name-label" asp-for="Unit">Unit</label>
+            <input type="text"
+                   asp-for="Unit"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <button type="submit" id="submit" class="submit-button">
+                Refresh Support Items
+            </button>
+
+            <button type="submit" id="submit" class="submit-button">
+                Add Cost
+            </button>
+
+        </div>
+
+        <div class="form-group">
+            <h6>Staff</h6>
+            <select id="dropdown" asp-for="Staff" class="form-control" required>
+                @*<option disabled selected value>Staff</option>*@
+                <option value="student">Time</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+
+            <label id="name-label" asp-for="Start_time">Start Time</label>
+            <input type="text"
+                   asp-for="Start_time"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <label id="name-label" asp-for="Finish_time">Finish Time</label>
+            <input type="text"
+                   asp-for="Finish_time"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <button type="submit" id="submit" class="submit-button">
+                Add Staff
+            </button>
+
+            <h6>Service & Billing Notes</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Service_and_billing_note"></textarea>
+
+            <button type="submit" id="submit" class="submit-button">
+                Save
+            </button>
+
+            <button type="submit" id="submit" class="submit-button">
+                Cancel
+            </button>
+
+        </div>
+
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+    </form>
+</div>
+
+
+
+
+

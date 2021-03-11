@@ -1,0 +1,93 @@
+﻿@model IEnumerable<MVC_DynamicMenu.Models.Medication>
+
+@{
+    ViewData["Title"] = "PlanView";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <div class="text-right">
+            <button type="button" onclick='window.location.href = "/Medication/AddMedication"' class="btn btn-primary">+New Entry</button>
+        </div>
+        <div class="text-right">
+            <button type="button" onclick='window.location.href = "/Medication/View"' class="btn btn-primary">View</button>
+        </div>
+        <h1 id="title" class="text-center">VIEW ALL MEDICATION</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form id="survey-form">
+        <div class="form-group">
+            <label id="name-label" for="name">Select Participant</label>
+            <input type="text"
+                   name="name"
+                   id="name"
+                   class="form-control"
+                   placeholder="Enter name"
+                   required />
+        </div>
+
+
+        <table class="table badge-light">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Client)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.StartDate)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.EndDate)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Name)
+                    </th>
+
+                    <th>
+                        @Html.DisplayNameFor(model => model.status)
+                    </th>
+
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Client)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.StartDate)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.EndDate)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.status)
+                        </td>
+
+                        <td>
+                            <a asp-controller="Medication" asp-action="MedicationApprove" asp-route-id="@item.MedicationId">Approve</a> |
+                            <a asp-controller="Medication" asp-action="EditPlan" asp-route-id="@item.MedicationId">Edit</a> |
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+    </form>
+</div>

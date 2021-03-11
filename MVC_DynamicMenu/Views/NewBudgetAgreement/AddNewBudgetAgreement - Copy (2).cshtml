@@ -1,0 +1,199 @@
+﻿@model BudgetAgreementlist
+@using MVC_DynamicMenu.ViewModels; 
+@using Newtonsoft.Json;
+@using Microsoft.AspNetCore.Http;
+@{
+    ViewData["Title"] = "AddNewClient";
+    List<Patient> cli = JsonConvert.DeserializeObject<List<Patient>>(Context.Session.GetString("budget"));
+}
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <h1 id="title" class="text-center">Add A New Budegt Agreement</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form asp-action="AddNewBudgetAgreement" id="survey-form">
+        <div class="form-group">
+            <label id="name-label" asp-for="budgetagree[0].Client_Name">Participant</label>
+            <input type="text"
+                   asp-for="budgetagree[0].Client_Name"
+                   id="name"
+                   class="form-control"
+                   placeholder="Enter your name"
+                   list="budget"
+                   required />
+            <datalist id="budget">
+
+
+                @foreach (var item in cli)
+                {
+                    <option value="@item.Full_Name"></option>
+                }
+
+            </datalist>
+        </div>
+        @*Date Start*@
+        <label asp-for="budgetagree[0].Start_Date">Start Date</label>
+        <input type="date" asp-for="budgetagree[0].Start_Date" id="dateofbirth">
+
+        <label asp-for="budgetagree[0].End_Date">End Date</label>
+        <input type="date" asp-for="budgetagree[0].End_Date" id="dateofbirth">
+
+        @*Allocated Support Budgets*@
+        <div class="form-group">
+            <p>Allocated Support Budgets</p>
+            <div class="row">
+                <div class="col-md-8">
+                    <label id="name-label">Select Program</label>
+                    <input type="text"                  
+                           id="selectpro"
+                           class="form-control"
+                           required />
+
+                    <label id="name-label" >Support Purpose</label>
+                    <input type="text"                         
+                           id="supportpur"
+                           class="form-control"
+                           required />
+
+                    <label id="name-label">Support Category</label>
+                    <input type="text"                          
+                           id="supportcat"
+                           class="form-control"
+                           required />
+                </div>
+                <div class="col-md-4">
+                    <label id="name-label">Biler type</label>
+                    <input type="text"                     
+                           id="billerty"
+                           class="form-control"
+                           placeholder="$"
+                           required />
+
+                </div>
+
+            </div>
+            <div class="row mt-4">
+                <div class="col-md-6">
+                    <label id="name-label">Budget</label>
+                    <input type="text"                  
+                           id="budgets"
+                           class="form-control"
+                           placeholder="$"
+                           required />
+                </div>
+                <div class="col-md-6">
+                    <label id="name-label">Remaining Budget</label>
+                    <input type="text"
+                           id="rembudget"
+                           class="form-control"
+                           placeholder="$"
+                           required />
+                </div>
+
+            </div>
+            <div class="row mt-4">
+                <div class="col-md-2">
+                    <button class="btn btn-primary" id="addbutton">Add Support Budget</button>
+                </div>
+            </div>
+        </div>
+        @*Table*@
+        <div class="table-responsive" style="height: 200px; overflow: auto;">
+            <table id="invoice_listing" class="table">
+                <thead class="text-primary">
+                    <tr>
+                        <th>
+                            Select Program                    
+                        </th>
+                        <th>
+                            Support Purpose
+                        </th>
+                        <th>
+                            Support Category
+                        </th>
+                        <th>
+                            Biller Type
+                        </th>
+                        <th>
+                            Budget
+                        </th>
+                        <th>
+                            Remaining Budget
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+        @*table end*@
+
+        <div class="form-group">
+            <button type="submit" id="submit" class="submit-button">
+                Save & Publish
+            </button>
+        </div>
+
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+
+        @section Scripts{ 
+        <script>
+            var i;
+            $(Document).ready(function () {
+           
+                i = 0;              
+            });
+         
+            $('#addbutton').click(function () {
+
+                // if ($('#iDetails').length()) {
+                var name = "";
+                var pname = document.getElementById("selectpro");    
+                var pquan = document.getElementById("supportpur");
+                var pdisc = document.getElementById("supportcat");
+                var pprice = document.getElementById("billerty");
+                var pvat = document.getElementById("budgets");          
+                var ptax = document.getElementById("rembudget");
+              
+                $('#invoice_listing tbody')
+                    .append(
+                        "<tr>" +
+                        "<td>" + "<input type='text' name='" + "budgetagree[" + i + "].Select_Program'" + " value='" + pname.value + "' readonly='readonly' >" + "</td>" +
+                        "<td>" + "<input type='text' name='" + "budgetagree[" + i + "].Support_purpose'" + " value='" + pquan.value + "' readonly='readonly'>" + "</td>" +
+                        "<td>" + "<input type='text' name='" + "budgetagree[" + i + "].Support_category'" + " value='" + pdisc.value + "' readonly='readonly'>" + "</td>" +
+                        "<td>" + "<input type='text' name='" + "budgetagree[" + i + "].Biler_type'" + " value='" + pprice.value + "' readonly='readonly'>" + "</td>" +
+                        "<td>" + "<input type='text' name='" + "budgetagree[" + i + "].Budget'" + " value='" + pvat.value + "' readonly='readonly'>" + "</td>" +
+                        "<td>" + "<input type='text' name='" + "budgetagree[" + i + "].Remaining_budget'" + " value='" + ptax.value + "' readonly='readonly'>" + "</td>" +
+                        //"<td>" + "<input type='text' name='" + "total'" + " value='" + parseFloat(pquan.value) * parseFloat(pprice.value) + "' readonly='readonly' >" + "</td>" +                     
+                        //"<td>" + parseFloat(pquan.value) * parseFloat(pprice.value) + "</td>" +
+                        //"<td>" +""+
+
+                        //"</td >"+
+                        "</tr>"
+                    );
+       
+
+
+
+
+                i++;
+            });
+         
+            </script>
+        }
+
+    </form>
+</div>
+
+
+
+
+

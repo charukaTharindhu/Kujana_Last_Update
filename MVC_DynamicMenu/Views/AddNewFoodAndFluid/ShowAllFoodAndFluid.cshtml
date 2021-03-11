@@ -1,0 +1,116 @@
+﻿
+@model List<FoodAndFluid>
+@{
+    ViewData["Title"] = "Home page";
+}
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <div class="text-right">
+            <button type="button" onclick='window.location.href = "/AddNewFoodAndFluid/AddNewFoodAndFluid"' class="btn btn-primary">+New Entry</button>
+        </div>
+
+        <h1 id="title" class="text-center">Show All Food And Fluid</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+
+
+    <form id="survey-form">
+        <div class="form-group">
+            <label id="name-label" for="name">Select Participant</label>
+            <input type="text"
+                   name="name"
+                   id="myInput"
+                   class="form-control"
+                   placeholder="Enter name"
+                   onkeyup="myFunction()"
+                   required />
+        </div>
+
+        @*Date Start*@
+        <label for="dateofbirth"></label>
+        <input type="date" name="dateofbirth" id="dateofbirth">
+        @*Date Start*@
+        <label for="dateofbirth"></label>
+        <input type="date" name="dateofbirth" id="dateofbirth">
+
+        @*Hierarchy Start*@
+        <div class="form-group">
+            <p>Please Select a State</p>
+            <select id="dropdown" name="role" class="form-control" required>
+                @*<option disabled selected value>Select current role</option>*@
+                <option value="student"></option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <table class="table badge-light">
+                    <thead>
+                        <tr>
+                            <th>Reference</th>
+                            <th>Participant</th>
+                            <th>Approved_Plane</th>
+                            <th>Entry Pending_Plans</th>
+                        </tr>
+                    </thead>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.ClientID</td>
+                            <td>@item.Client_Name</td>
+                            <td>@item.Approved_Plane</td>
+                            <td>@item.Pending_Plans</td>
+                            <td>
+                                <a asp-controller="AddNewFoodAndFluid" asp-action="ViewFoodAndFluid" asp-route-id="@item.ClientID">Update</a>
+                                <a asp-controller="AddNewFoodAndFluid" asp-action="UpdateFoodAndFluid" asp-route-id="@item.ClientID">Update</a>
+                                <a asp-controller="AddNewFoodAndFluid" asp-action="DeleteFoodAndFluid" asp-route-id="@item.ClientID">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </table>
+            </div>
+        </div>
+
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+
+        </script>
+        @section Scripts{
+            <script>
+                function myFunction() {
+                    var input, filter, table, tr, td, i, txtValue;
+                    input = document.getElementById("myInput");
+                    filter = input.value.toUpperCase();
+                    table = document.getElementById("myTable");
+                    tr = table.getElementsByTagName("tr");
+                    for (i = 0; i < tr.length; i++) {
+                        td = tr[i].getElementsByTagName("td")[1];
+                        if (td) {
+                            txtValue = td.textContent || td.innerText;
+                            if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                                tr[i].style.display = "";
+                            } else {
+                                tr[i].style.display = "none";
+                            }
+                        }
+                    }
+                }
+            </script>
+        }
+        </form>
+
+
+
+
+

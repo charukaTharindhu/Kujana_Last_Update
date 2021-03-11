@@ -1,0 +1,961 @@
+﻿@model MVC_DynamicMenu.Models.NewBehaviorLog
+@{
+    ViewData["Title"] = "Add New BehaviorLog";
+}
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <h1 id="title" class="text-center">Add A New Behaviour Log</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form asp-action="" asp-controller="NewBehaviorLog" id="survey-form">
+        <div class="form-group">
+            <label id="name-label" asp-for="Client">Participant</label>
+            <input type="text"
+                   asp-for="Client"
+                   id="name"
+                   class="form-control"
+                   placeholder="Enter your name"
+                   required />
+        </div>
+        <input type="hidden" asp-for="BehaviorID" />
+        @*Date Start*@
+        <label asp-for="EntryDate">Entry Date</label>
+        <input type="date" asp-for="EntryDate" id="dateofbirth">
+
+        @*Hierarchy Start*@
+        <div class="form-group">
+            <p>Hierarchy</p>
+            <select id="dropdown" asp-for="Hierarchy" class="form-control" required>
+                @*<option disabled selected value>Select current role</option>*@
+                <option value="student">New</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+        </div>
+
+        @*Healthcare*@
+        <button type="button" class="accordion">Healthcare</button>
+        <div class="panel">
+            <div class="form-group">
+
+                <p> Healthcare</p>
+                <h6>General Illness</h6>
+                <label>
+                    <input asp-for="Genaral_Illness"
+                           value="Yes"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="Genaral_Illness"
+                           value="No"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+
+
+                <h6>Menstruation</h6>
+                <label>
+                    <input asp-for="Menstruation"
+                           value="Yes"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="Menstruation"
+                           value="No"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+
+            </div>
+            <div class="form-group">
+                <label id="name-label" asp-for="weight_EnterOnecAMonth">Weight (Enterd Once a Month)</label>
+                <input type="text"
+                       asp-for="weight_EnterOnecAMonth"
+                       id="name"
+                       class="form-control"
+                       placeholder=required />
+            </div>
+        </div>
+        @*Behaviour Log Elements - Behaviours of Concern*@
+        <button type="button" class="accordion">Behaviour Log Elements - Behaviours of Concern</button>
+        <div class="panel">
+            <p>Behaviour Log Elements - Behaviours of Concern</p>
+            <h6>Abnormal Perceptions</h6>
+            <label>
+                <input asp-for="Abnormal_perceptions"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Abnormal_perceptions"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Alcohol: SubstanceiSolvens Use</h6>
+            <label>
+                <input asp-for="Alcohol_Substance_Solvent_Use"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Alcohol_Substance_Solvent_Use"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Antisocial Behaviour</h6>
+            <label>
+                <input asp-for="Antisocial_Behavior"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Antisocial_Behavior"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Anxiety</h6>
+            <label>
+                <input asp-for="Anxiety"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Anxiety"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Binging:Purging Refusal to Eat</h6>
+            <label>
+                <input asp-for="Binging_Purging_Refusal_To_Eat"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Binging_Purging_Refusal_To_Eat"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Communication Issues</h6>
+            <label>
+                <input asp-for="Communication_Issues"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Communication_Issues"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Difficulties with:Refusal to Engage in Learning</h6>
+            <label>
+                <input asp-for="Difficulties_With_Refusal_To_Engage_In_Learning"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Difficulties_With_Refusal_To_Engage_In_Learning"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+
+            <h6>Difficulties with:Refusal to Engage independance Skills</h6>
+            <label>
+                <input asp-for="Difficulties_With_Refusal_To_Engage_independence_Skills"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Difficulties_With_Refusal_To_Engage_independence_Skills"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Difficulties with:Refusal to Masintain Person Self Care</h6>
+            <label>
+                <input asp-for="Difficulties_With_Refusal_To_Maintain_Personal_Self_Carfe"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Difficulties_With_Refusal_To_Maintain_Personal_Self_Carfe"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Difficulties Self Regulation Emotions</h6>
+            <label>
+                <input asp-for="Difference_Self_Regulating_Emotions"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Difference_Self_Regulating_Emotions"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Distortion:Memory Loss</h6>
+            <label>
+                <input asp-for="Distortion_Memory_Loss"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Distortion_Memory_Loss"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Distress,Worrying,Crying</h6>
+            <label>
+                <input asp-for="Distress_Worring_Crying"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Distress_Worring_Crying"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Fear and Phobias</h6>
+            <label>
+                <input asp-for="Fears_and_Phobias"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Fears_and_Phobias"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Impulsive Behaviour Targeting Property of Others</h6>
+            <label>
+                <input asp-for="Impulsive_Behavior_Targeting_Property_of_Others"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Impulsive_Behavior_Targeting_Property_of_Others"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Inattention/Lack of Concentration</h6>
+            <label>
+                <input asp-for="Intention_Lack_of_Concentration"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Intention_Lack_of_Concentration"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Indiscriminate Disclosures</h6>
+            <label>
+                <input asp-for="Indiscriminate_Disclosures"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Indiscriminate_Disclosures"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Loss of Interest in Activities</h6>
+            <label>
+                <input asp-for="Loss_Of_Interest_in_Activities"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Loss_Of_Interest_in_Activities"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Mimicking Other Behaviours</h6>
+            <label>
+                <input asp-for="Mimicking_Other_Behavior"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Mimicking_Other_Behavior"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Obsession or Complusions</h6>
+            <label>
+                <input asp-for="Obsersions_Or_Compulsions"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Obsersions_Or_Compulsions"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Odd andior Bizarre Behaviours</h6>
+            <label>
+                <input asp-for="Odd_and_Or_Bizarre_Behavior"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Odd_and_Or_Bizarre_Behavior"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Oppositional/Defiant Behaviour</h6>
+            <label>
+                <input asp-for="Oppositional_Defiant_Behaviour"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Oppositional_Defiant_Behaviour"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Overactive Behaviour</h6>
+            <label>
+                <input asp-for="Overactive_Behavior"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Overactive_Behavior"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Physical Aggression</h6>
+            <label>
+                <input asp-for="Physical_Aggression"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Physical_Aggression"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Problems With Peers/Staff/Family</h6>
+            <label>
+                <input asp-for="Problems_With_Peers_Staff_Family"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Problems_With_Peers_Staff_Family"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Self Criticism</h6>
+            <label>
+                <input asp-for="Self_Criticism"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Self_Criticism"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Self Injury(Evidence Of)</h6>
+            <label>
+                <input asp-for="Self_Criticism"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Self_Criticism"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Self Injury(Thought Of)</h6>
+            <label>
+                <input asp-for="Self_Injury_Thoughts_of"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Self_Injury_Thoughts_of"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Sexualised Behaviours</h6>
+            <label>
+                <input asp-for="Sexualised_Behavior"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Sexualised_Behavior"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Sings of/Disclosures of Hearing Voices</h6>
+            <label>
+                <input asp-for="Signs_Of_Disclosure_Of_Hearing_Voices"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Signs_Of_Disclosure_Of_Hearing_Voices"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Sleep Problems/Chronic Fatigue/Bad Wetting</h6>
+            <label>
+                <input asp-for="Sleep_Problems_Chronic_Fatigue_Bed_Wetting"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Sleep_Problems_Chronic_Fatigue_Bed_Wetting"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Somatising</h6>
+            <label>
+                <input asp-for="Somatising"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Somatising"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Verbal Aggression</h6>
+            <label>
+                <input asp-for="Verbal_Aggression"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Verbal_Aggression"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Withdrawal From Others</h6>
+            <label>
+                <input asp-for="Withdrawal_From_Others"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Withdrawal_From_Others"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+        </div>
+
+        @*Behaviour Log Elements - Adaptive*@
+        <button type="button" class="accordion">Behaviour Log Elements - Adaptive</button>
+        <div class="panel">
+            <p>Behaviour Log Elements - Adaptive</p>
+            <h6>Active Listening</h6>
+            <label>
+                <input asp-for="Active_Listening"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Active_Listening"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Anger Management</h6>
+            <label>
+                <input asp-for="Anger_Management"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Anger_Management"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Being Respectful</h6>
+            <label>
+                <input asp-for="Being_Respectful"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Being_Respectful"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Being Safe</h6>
+            <label>
+                <input asp-for="Being_Safe"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Being_Safe"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Conflict Management</h6>
+            <label>
+                <input asp-for="Conflict_Management"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Conflict_Management"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Cooperation</h6>
+            <label>
+                <input asp-for="Cooperation"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Cooperation"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Effective Communication</h6>
+            <label>
+                <input asp-for="Effective_Communication"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Effective_Communication"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+
+            <h6>Following Directions</h6>
+            <label>
+                <input asp-for="Following_Directions"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Following_Directions"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Helping Others</h6>
+            <label>
+                <input asp-for="Helping_Others"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Helping_Others"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Increasing Acceptiance and Tolerance of Diverse Group</h6>
+            <label>
+                <input asp-for="Increasing_Acceptance_and_Tolerance_of_Diverse_Group"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Increasing_Acceptance_and_Tolerance_of_Diverse_Group"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Listening</h6>
+            <label>
+                <input asp-for="Listening"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Listening"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Pertipation</h6>
+            <label>
+                <input asp-for="Participation"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Participation"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Patience</h6>
+            <label>
+                <input asp-for="Patience"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Patience"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Peer Resistance Skills</h6>
+            <label>
+                <input asp-for="Peer_Pesistance_Skills"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Peer_Pesistance_Skills"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Politeness and Manners</h6>
+            <label>
+                <input asp-for="Politenss_and_Manners"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Politenss_and_Manners"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Positive Interactions</h6>
+            <label>
+                <input asp-for="Positive_Iteraction"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Positive_Iteraction"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Praising Other and Refraining fron Negative Comments</h6>
+            <label>
+                <input asp-for="Praising_others_and_Refraining_From_Nesative_Comments"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Praising_others_and_Refraining_From_Nesative_Comments"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Recognising/Understanding Points of View of Others</h6>
+            <label>
+                <input asp-for="Recognising_Understanding_point_of_view_of_others"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Recognising_Understanding_point_of_view_of_others"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Remaining on Task</h6>
+            <label>
+                <input asp-for="Remaining_of_task"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Remaining_of_task"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Sharing</h6>
+            <label>
+                <input asp-for="Sharing"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Sharing"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Social Problem Solving</h6>
+            <label>
+                <input asp-for="Social_Problem_Slving"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Social_Problem_Slving"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+
+            <h6>Taking Turns</h6>
+            <label>
+                <input asp-for="Taking_Turns"
+                       value="Yes"
+                       type="radio"
+                       class="input-radio"
+                       checked />Yes
+            </label>
+            <label>
+                <input asp-for="Taking_Turns"
+                       value="No"
+                       type="radio"
+                       class="input-radio" />No
+            </label>
+        </div>
+        @*Completion & Sign-off*@
+
+
+        <div class="form-group">
+            <p>Completion & Sign-off</p>
+            <label id="name-label" asp-for="Staff_member_name">Staff Member Name</label>
+            <input type="text"
+                   asp-for="Staff_member_name"
+                   id="name"
+                   class="form-control"
+                   placeholder="Select Staff"
+                   required />
+        </div>
+
+
+
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+
+
+  
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+
+    </form>
+</div>
+
+
+
+
+
+

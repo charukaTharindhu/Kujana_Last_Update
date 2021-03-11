@@ -1,0 +1,248 @@
+﻿
+@model MVC_DynamicMenu.Models.AddNewStaffMeeting
+@{
+    ViewData["Title"] = "Home page";
+}
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <h1 id="title" class="text-center">View A Staff Meeting</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form asp-action="" id="survey-form">
+        <div class="form-group">
+            <label id="name-label" asp-for="Client_Name">Participant</label>
+            <input type="text"
+                   asp-for="Client_Name"
+                   id="name"
+                   class="form-control"
+                   placeholder="Enter your name"
+                   required />
+        </div>
+        @*Date Start*@
+        <label asp-for="Entry_Date">Entry Date</label>
+        <input type="date" asp-for="Entry_Date" id="dateofbirth">
+
+        @*Hierarchy Start*@
+        <div class="form-group">
+            <p>Hierarchy</p>
+            <select id="dropdown" asp-for="Hierarchy" class="form-control" required>
+                @*<option disabled selected value>Select current role</option>*@
+                <option value="student">New</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <p>Minutes - Staff Meeting</p>
+
+            <label asp-for="Date_and_Time">Date</label>
+            <input type="date" asp-for="Date_and_Time" id="dateofbirth">
+
+            <label id="name-label" asp-for="Time">Time</label>
+            <input type="text"
+                   asp-for="Time"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <label asp-for="Next_Meeting_Date_and_Time">Next Meeting - Date & Time</label>
+            <input type="date" asp-for="Next_Meeting_Date_and_Time" id="dateofbirth">
+
+            <label id="name-label" asp-for="Time">Time</label>
+            <input type="text"
+                   asp-for="Time"
+                   id="name"
+                   class="form-control"
+                   required />
+
+        </div>
+
+        <div class="form-group">
+            <p>Attendance & Apologies</p>
+
+            <label id="name-label" asp-for="Attendence">Attendance</label>
+            <input type="text"
+                   asp-for="Attendence"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <label id="name-label" asp-for="Apologies">Apologies</label>
+            <input type="text"
+                   asp-for="Apologies"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <label id="name-label" asp-for="Chairperson">Chairperson</label>
+            <input type="text"
+                   asp-for="Chairperson"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <label id="name-label" asp-for="Minute_Taker">Minute Taker</label>
+            <input type="text"
+                   asp-for="Minute_Taker"
+                   id="name"
+                   class="form-control"
+                   required />
+
+
+
+
+        </div>
+
+        <div class="form-group">
+            <p>Standing Agenda Items</p>
+            <h6>Action From Previous Meeting</h6>
+            <h6>Client Update</h6>
+            <h6>Clinical & Health Update</h6>
+            <h6>Constinous Improvement</h6>
+            <h6>WH & S</h6>
+            <h6>Police & Procedures</h6>
+            <h6>Other</h6>
+            <h6>Action Plan</h6>
+        </div>
+
+        <div class="form-group">
+            <p>Meeting Minutes</p>
+
+            <h6>Action from Previous Minutes</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Actions_From_Previous_minutes"
+                      placeholder="First Meeting Since The Merger"></textarea>
+
+
+        </div>
+        <div class="form-group">
+            <p>Client Update</p>
+
+            <h6>Good news stories- sharing photos</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Good_news_stories"></textarea>
+
+            <h6>NDIS Goals - achievement?</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="NDIS_Goals"></textarea>
+
+            <h6>New activities or experiences to share</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="New_Activities_or_experience_to_share"></textarea>
+
+        </div>
+
+        <div class="form-group">
+            <p>Clinical & Health Update</p>
+
+            <h6>Health Concerns</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Health_concerms"></textarea>
+
+            <h6>Upcoming Appoiments</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Upcomin_Appointments"></textarea>
+        </div>
+
+        <div class="form-group">
+
+            <p>Continuous Improvement</p>
+
+            <h6>Incident report</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Incident_Reports"></textarea>
+
+            <h6>Changes in behaviour</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Changes_In_Behaviour"></textarea>
+
+            <h6>Training opportunities</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Training_Oppotunities"></textarea>
+
+            <h6>CTRS recording</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="CIARS_Recording"></textarea>
+        </div>
+
+        <div class="form-group">
+
+            <p>WH&S</p>
+
+            <h6>Any WH&S issues to be reported</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Any_WH_and_S_issues_to_reported"></textarea>
+
+            <h6>House maintenance</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="House_mainteance"></textarea>
+        </div>
+
+        <div class="form-group">
+
+            <p>Policies and Procedures</p>
+
+            <h6>The policy reviewd during the meeting and thediscussion</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="The_policy_reviewed_during_the_meeting_and_discussion"></textarea>
+        </div>
+
+        <div class="form-group">
+
+            <p>Other</p>
+
+            <h6>Staff discussion</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Staff_Discussion"></textarea>
+        </div>
+
+        <div class="form-group">
+
+            <p>Action Plan</p>
+
+            <h6>What does the team need to follow up?</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="What_does_the_team_needs_to_follow_up"></textarea>
+
+            <h6>What does the Coordinator need to follow up?</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="What_deos_the_coordinator_needs_to_follow_up"></textarea>
+
+        </div>
+
+
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+    </form>
+</div>
+
+
+
+
+

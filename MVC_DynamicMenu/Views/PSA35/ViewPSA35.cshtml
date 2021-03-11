@@ -1,0 +1,769 @@
+﻿
+@model MVC_DynamicMenu.Models.NewPSA35
+@{
+    ViewData["Title"] = "Home page";
+}
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <h1 id="title" class="text-center">Add New PSA 35</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form asp-action="" id="survey-form">
+        <div class="form-group">
+            <label id="name-label" asp-for="Client_name">Participant</label>
+            <input type="text"
+                   asp-for="Client_name"
+                   id="name"
+                   class="form-control"
+                   placeholder="Enter your name"
+                   required />
+
+        </div>
+        @*Date Start*@
+        <label asp-for="Entry_date">Entry Date</label>
+        <input type="date" asp-for="Entry_date" id="dateofbirth">
+
+        @*Hierarchy Start*@
+        <div class="form-group">
+            <p>Hierarchy</p>
+            <select id="dropdown" asp-for="Hierarchy" class="form-control" required>
+                @*<option disabled selected value>Select current role</option>*@
+                <option value="student">New</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+        </div>
+        <button type="button" class="accordion">Question set 1</button>
+        <div class="panel">
+            <p>Question</p>
+            <h6>Complains of aches and pains</h6>
+            <label>
+                <input asp-for="Complains_of_aches_and_pains"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Complains_of_aches_and_pains"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Complains_of_aches_and_pains"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+
+            <h6>Spends more time alone</h6>
+            <label>
+                <input asp-for="Spends_more_time_alone"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Spends_more_time_alone"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Spends_more_time_alone"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+
+            <h6>Tires easily, has little energy</h6>
+            <label>
+                <input asp-for="Tires_easily_has_little_energy"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Tires_easily_has_little_energy"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Tires_easily_has_little_energy"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+
+            <h6>Fidgety, unable to sit still</h6>
+            <label>
+                <input asp-for="Fidgety_unable_to_sit_still"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Fidgety_unable_to_sit_still"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Fidgety_unable_to_sit_still"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+
+            <h6>Has trouble with teacher</h6>
+            <label>
+                <input asp-for="Has_trouble_with_teacher"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Has_trouble_with_teacher"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Has_trouble_with_teacher"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+
+            <h6>Less interested in school</h6>
+            <label>
+                <input asp-for="Less_interested_in_school"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Less_interested_in_school"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Less_interested_in_school"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+
+            <h6>Acts as if driven by a motor</h6>
+            <label>
+                <input asp-for="Acts_as_if_driven_by_a_motor"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Acts_as_if_driven_by_a_motor"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Acts_as_if_driven_by_a_motor"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+
+            <h6>Daydreams too much</h6>
+            <label>
+                <input asp-for="Daydreams_too_much"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Daydreams_too_much"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Daydreams_too_much"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+
+            <h6>Distracted easily</h6>
+            <label>
+                <input asp-for="Distracted_easily"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Distracted_easily"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Distracted_easily"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+            <h6>Is afraid of new situations</h6>
+            <label>
+                <input asp-for="Is_afraid_of_new_situations"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Is_afraid_of_new_situations"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Is_afraid_of_new_situations"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+            <h6>Feels sad, unhappy</h6>
+            <label>
+                <input asp-for="Feels_sad_unhappy"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Feels_sad_unhappy"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Feels_sad_unhappy"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+            <h6>Is irritable, angry</h6>
+            <label>
+                <input asp-for="Is_irritable_angry"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Is_irritable_angry"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Is_irritable_angry"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+
+            <h6>Feels hopeless</h6>
+            <label>
+                <input asp-for="Feels_hopeless"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Feels_hopeless"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Feels_hopeless"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+
+            <h6>Has trouble concentrating</h6>
+            <label>
+                <input asp-for="Has_trouble_concentrating"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Has_trouble_concentrating"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Has_trouble_concentrating"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+
+            <h6>Less interested in friends</h6>
+            <label>
+                <input asp-for="Less_interested_in_friends"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Less_interested_in_friends"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Less_interested_in_friends"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+        </div>
+        <button type="button" class="accordion">Question set 2</button>
+        <div class="panel">
+            <h6>Fights with other children</h6>
+            <label>
+                <input asp-for="Fights_with_other_children"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Fights_with_other_children"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Fights_with_other_children"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+
+            <h6>Absent from school</h6>
+            <label>
+                <input asp-for="Absent_from_school"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Absent_from_school"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Absent_from_school"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+
+            <h6>School grades dropping</h6>
+            <label>
+                <input asp-for="School_grades_dropping"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="School_grades_dropping"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="School_grades_dropping"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+
+            <h6>Is down on him or herself</h6>
+            <label>
+                <input asp-for="Is_down_on_him_or_herself"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Is_down_on_him_or_herself"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Is_down_on_him_or_herself"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+            <h6>Has trouble sleeping</h6>
+            <label>
+                <input asp-for="Has_trouble_sleeping"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Has_trouble_sleeping"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Has_trouble_sleeping"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+            <h6>Worries a lot</h6>
+            <label>
+                <input asp-for="Worries_a_lot"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Worries_a_lot"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Worries_a_lot"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+
+            <h6>Wants to be with you more than before</h6>
+            <label>
+                <input asp-for="Wants_to_be_with_you_more_than_before"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Wants_to_be_with_you_more_than_before"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Wants_to_be_with_you_more_than_before"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+            <h6>Feels he or she is bad</h6>
+            <label>
+                <input asp-for="Feels_he_or_she_is_bad"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Feels_he_or_she_is_bad"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Feels_he_or_she_is_bad"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+            <h6>Takes unnecessary risks</h6>
+            <label>
+                <input asp-for="Takes_unnecessary_risks"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Takes_unnecessary_risks"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Takes_unnecessary_risks"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+            <h6>Gets hurt frequently</h6>
+            <label>
+                <input asp-for="Gets_hurt_frequently"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Gets_hurt_frequently"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Gets_hurt_frequently"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+            <h6>Seems to be having less fun</h6>
+            <label>
+                <input asp-for="Seems_to_be_having_less_fun"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Seems_to_be_having_less_fun"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Seems_to_be_having_less_fun"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+            <h6>Acts younger than children his or her age</h6>
+            <label>
+                <input asp-for="Acts_younger_than_children_his_or_her_age"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Acts_younger_than_children_his_or_her_age"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Acts_younger_than_children_his_or_her_age"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+            <h6>Does not listen to rules</h6>
+            <label>
+                <input asp-for="Does_not_listen_to_rules"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Does_not_listen_to_rules"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Does_not_listen_to_rules"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+            <h6>Does not show feelings</h6>
+            <label>
+                <input asp-for="Does_not_show_feelings"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Does_not_show_feelings"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Does_not_show_feelings"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+            <h6>Does not understand other people’s feelings</h6>
+            <label>
+                <input asp-for="Does_not_understand_feelings_of_other_people"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Does_not_understand_feelings_of_other_people"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Does_not_understand_feelings_of_other_people"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+            <h6>Teases others</h6>
+            <label>
+                <input asp-for="Teases_others"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Teases_others"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Teases_others"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+            <h6>Blames others for his or her troubles</h6>
+            <label>
+                <input asp-for="Blames_others_for_his_or_her_troubles"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Blames_others_for_his_or_her_troubles"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Blames_others_for_his_or_her_troubles"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+            <h6>Refuses to share</h6>
+            <label>
+                <input asp-for="Refuses_to_share"
+                       value="Never"
+                       type="radio"
+                       class="input-radio"
+                       checked />Never
+            </label>
+            <label>
+                <input asp-for="Refuses_to_share"
+                       value="Sometimes"
+                       type="radio"
+                       class="input-radio" />Sometimes
+            </label>
+
+            <label>
+                <input asp-for="Refuses_to_share"
+                       value="Often"
+                       type="radio"
+                       class="input-radio" />Often
+            </label>
+        </div>
+   
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+    </form>
+</div>
+
+
+
+
+

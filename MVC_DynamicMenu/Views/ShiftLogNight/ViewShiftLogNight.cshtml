@@ -1,0 +1,289 @@
+﻿
+@model MVC_DynamicMenu.Models.AddNewShiftLogNight
+@{
+    ViewData["Title"] = "Home page";
+}
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <h1 id="title" class="text-center">Add A New Shift LOG Night</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form asp-action="" id="survey-form">
+        <div class="form-group">
+            <label id="name-label" asp-for="Client">Participant</label>
+            <input type="text"
+                   asp-for="Client"
+                   id="name"
+                   class="form-control"
+                   placeholder="Enter your name"
+                
+                   required />
+
+
+        </div>
+        @*Date Start*@
+        <label asp-for="EntryDate">Entry Date</label>
+        <input type="date" asp-for="EntryDate" id="dateofbirth">
+
+        @*Hierarchy Start*@
+        <div class="form-group">
+            <p>Hierarchy</p>
+            <select id="dropdown" asp-for="Hierarchy" class="form-control" required>
+                @*<option disabled selected value>Select current role</option>*@
+                <option value="student">New</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+        </div>
+
+        @*Shift Log Elements*@
+        <button type="button" class="accordion">Shift Log Elements</button>
+        <div class="panel">
+            <div class="form-group">
+
+                <p>Shift Log Elements</p>
+                <h6>Authorised Substaince Use Protocot Adhered To</h6>
+                <label>
+                    <input asp-for="Authorised_substance_use_protocol_adhered_to"
+                           value="Yes"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="Authorised_substance_use_protocol_adhered_to"
+                           value="No"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+
+                <label>
+                    <input asp-for="Authorised_substance_use_protocol_adhered_to"
+                           value="N/A"
+                           type="radio"
+                           class="input-radio" />N/A
+                </label>
+
+                <h6>Behavioura.Emotional Issue</h6>
+                <label>
+                    <input asp-for="Behavior_Emotional_issues"
+                           value="Yes"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="Behavior_Emotional_issues"
+                           value="No"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+
+                <h6>Chore Plan Followed</h6>
+                <label>
+                    <input asp-for="Chore_plane_followed"
+                           value="Yes"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="Chore_plane_followed"
+                           value="No"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+
+                <h6>Daily planed adheared to</h6>
+                <label>
+                    <input asp-for="Daily_planed_adheared_to"
+                           value="Yes"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="Daily_planed_adheared_to"
+                           value="No"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+
+
+                <h6>Education - Has The Client Attendaned School Today?</h6>
+                <label>
+                    <input asp-for="Education_has_the_client_Attended_school_today"
+                           value="Yes"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="Education_has_the_client_Attended_school_today"
+                           value="No"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+
+                <h6>Exercise Plan Followed</h6>
+                <label>
+                    <input asp-for="Excercise_plane_followed"
+                           value="Yes"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="Excercise_plane_followed"
+                           value="No"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+
+                <h6>Incident Log Completed</h6>
+                <label>
+                    <input asp-for="Incident_log_copleted"
+                           value="Yes"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="Incident_log_copleted"
+                           value="No"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+
+                <h6>Medication Administered as Prescribed</h6>
+                <label>
+                    <input asp-for="Medication_Administrated_as_Prescribed"
+                           value="Yes"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="Medication_Administrated_as_Prescribed"
+                           value="No"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+
+                <h6>Menu/Diet Plan Followed</h6>
+                <label>
+                    <input asp-for="Menu_Diet_plane_folowed"
+                           value="Yes"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="Menu_Diet_plane_folowed"
+                           value="No"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+
+                <h6>Personal Care Routine Followed</h6>
+                <label>
+                    <input asp-for="Personal_core_routine_Followed"
+                           value="Yes"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="Personal_core_routine_Followed"
+                           value="No"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+
+                <h6>PRN Administered</h6>
+                <label>
+                    <input asp-for="PRN_administrered"
+                           value="Yes"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="PRN_administrered"
+                           value="No"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+
+                <h6>Reinforcement Point Achieved</h6>
+                <label>
+                    <input asp-for="Rainforcement_points_achivevede"
+                           value="Yes"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="Rainforcement_points_achivevede"
+                           value="No"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+
+                <h6>Wake Up Routine Followed</h6>
+                <label>
+                    <input asp-for="Wake_up_routine_followed"
+                           value="Yes"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="Wake_up_routine_followed"
+                           value="No"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+            </div>
+        </div>
+        <button type="button" class="accordion">Progress Note</button>
+        <div class="panel">
+            <div class="form-group">
+
+                <p>Progress Note</p>
+                <h6>Progress Notes</h6>
+                <textarea id="comments"
+                          class="input-textarea"
+                          asp-for="Progress_note"
+                          placeholder="Goals..."></textarea>
+            </div>
+        </div>
+        <div class="form-group">
+            <p>Completion & Sign-off</p>
+            <label id="name-label" asp-for="Staff_member_name">Staff Member Name</label>
+            <input type="text"
+                   asp-for="Staff_member_name"
+                   id="name"
+                   class="form-control"
+                   placeholder="Select Staff"
+                   required />
+        </div>
+
+       
+
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+    </form>
+</div>
+
+
+

@@ -1,0 +1,69 @@
+﻿
+@model List<Medication_main>
+@{
+    ViewData["Title"] = "Home page";
+}
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <div class="text-right">
+            <button type="button" onclick='window.location.href = "/Medication/AddMedication"' class="btn btn-primary">+New Entry</button>
+        </div>
+
+        <h1 id="title" class="text-center">VIEW ALL MEDICATION</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form id="survey-form">
+        <div class="form-group">
+            <label id="name-label" for="name">Select Participant</label>
+            <input type="text"
+                   name="name"
+                   id="name"
+                   class="form-control"
+                   placeholder="Enter name"
+                   required />
+        </div>
+
+
+        <div class="row">
+            <div class="col-md-12">
+                <table class="table badge-light">
+                    <thead>
+                        <tr>
+                            <th>Full Name</th>
+                            <th>ApprovedPlans</th>
+                            <th>PendingPlans</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.FullName</td>
+                            <td>@item.ApprovedPlans</td>
+                            <td>@item.PendingPlans</td>
+                            <td><a asp-action="PlanView" asp-controller="Medication" asp-route-id="@item.ClientId">View Plans</a></td>
+                        </tr>
+                    }
+
+
+
+                </table>
+            </div>
+        </div>
+
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+    </form>
+</div>
+
+
+
+

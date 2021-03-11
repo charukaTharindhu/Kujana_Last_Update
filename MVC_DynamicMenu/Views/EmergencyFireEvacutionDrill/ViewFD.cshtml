@@ -1,0 +1,89 @@
+﻿
+@model MVC_DynamicMenu.Models.EmergencyFireEvacutionDrill
+@{
+    ViewData["Title"] = "Home page";
+}
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <h1 id="title" class="text-center">View A Fire Drill</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form asp-action="" id="survey-form">
+        @*Date Start*@
+        <label asp-for="Entry_Date">Entry Date</label>
+        <input type="date" asp-for="Entry_Date" id="dateofbirth">
+
+        @*Fire Drill*@
+        <div class="form-group">
+            <p>Fire Drill</p>\
+            <label asp-for="Date">Date</label>
+            <input type="date" asp-for="Date" id="dateofbirth">
+
+            <label id="name-label" asp-for="Time">Time</label>
+            <input type="text"
+                   asp-for="Time"
+                   id="name"
+                   class="form-control"
+                   required />
+
+
+
+            <h6>Work Unit</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Work_Unit"></textarea>
+
+            <h6>Location of Fire</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Location_of_fire"></textarea>
+
+            <h6>Participants present at the fire drill</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Participants_present_at_the_fire_drill"></textarea>
+
+            <h6>Describe the evacuation drill</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Describe_the_evacuation"></textarea>
+            <h6>What worked?</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="What_worked"></textarea>
+
+            <h6>Were any changes made to how you evacuate?</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Where_any_changes_made_to_how_you_evacute"></textarea>
+            <h6>Were there any risks identified? If so, plese describe and how will they be mitigate(action to deal with risks)?</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Where_there_any_risks_identified"></textarea>
+
+            <p>Safety Checks</p>
+            <h6>Ensure that the weekly safety equipment checks have been completed over the past month.</h6>
+        </div>
+
+        <label id="name-label" asp-for="Staff_name">Staff Name</label>
+        <input type="text"
+               asp-for="Staff_name"
+               id="name"
+               class="form-control"
+               required />
+
+
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+    </form>
+</div>
+
+
+

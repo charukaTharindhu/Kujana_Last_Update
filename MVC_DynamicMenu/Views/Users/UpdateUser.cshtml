@@ -1,0 +1,23 @@
+﻿@model Users
+
+<form method="post" action="/Users/UpdateUser">
+    <label asp-for="Name"></label>
+    <input asp-for="Name" />
+
+    <input type="hidden" asp-for="UserId" />
+
+    <label asp-for="email"></label>
+    <input asp-for="email" />
+
+    <label asp-for="username"></label>
+    <input asp-for="username" />
+
+    <label asp-for="password"></label>
+    <input asp-for="password" type="password" />
+
+    <label asp-for="role"></label>
+    <input asp-for="role" />
+
+    <input type="submit" value="Update" />
+
+</form>

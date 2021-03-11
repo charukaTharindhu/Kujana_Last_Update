@@ -1,0 +1,236 @@
+﻿@model NewBudgetAgreement
+@using Newtonsoft.Json;
+@using Microsoft.AspNetCore.Http;
+@{
+    ViewData["Title"] = "AddNewClient";
+    List<Patient> cli = JsonConvert.DeserializeObject<List<Patient>>(Context.Session.GetString("budget"));
+}
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <h1 id="title" class="text-center">Add A New Budegt Agreement</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form asp-action="AddNewBudgetAgreement" id="survey-form">
+        <div class="form-group">
+            <label id="name-label" asp-for="Client_Name">Participant</label>
+            <input type="text"
+                   asp-for="Client_Name"
+                   id="name"
+                   class="form-control"
+                   placeholder="Enter your name"
+                   list="budget"
+                   required />
+            <datalist id="budget">
+
+
+                @foreach (var item in cli)
+                {
+                    <option value="@item.Full_Name"></option>
+                }
+
+            </datalist>
+        </div>
+        @*Date Start*@
+        <label asp-for="Start_Date">Start Date</label>
+        <input type="date" asp-for="Start_Date" id="dateofbirth">
+
+        <label asp-for="End_Date">End Date</label>
+        <input type="date" asp-for="End_Date" id="dateofbirth">
+
+        @*Allocated Support Budgets*@
+        <div class="form-group">
+            <p>Allocated Support Budgets</p>
+
+            <label id="name-label" asp-for="Select_Program">Select Program</label>
+            <input type="text"
+                   asp-for="Select_Program"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <label id="name-label" asp-for="Support_purpose">Support Purpose</label>
+            <input type="text"
+                   asp-for="Support_purpose"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <label id="name-label" asp-for="Support_category">Support Category</label>
+            <input type="text"
+                   asp-for="Support_category"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <label id="name-label" asp-for="Budget">Budget</label>
+            <input type="text"
+                   asp-for="Budget"
+                   id="name"
+                   class="form-control"
+                   placeholder="$"
+                   required />
+
+            <label id="name-label" asp-for="Remaining_budget">Remaining Budget</label>
+            <input type="text"
+                   asp-for="Remaining_budget"
+                   id="name"
+                   class="form-control"
+                   placeholder="$"
+                   required />
+
+
+            <label id="name-label" asp-for="Biler_type">Biler type</label>
+            <input type="text"
+                   asp-for="Biler_type"
+                   id="name"
+                   class="form-control"
+                   placeholder="$"
+                   required />
+
+            <label id="name-label" asp-for="Support_Item">Support Item</label>
+            <input type="text"
+                   asp-for="Support_Item"
+                   id="name"
+                   class="form-control"
+                   placeholder="$"
+                   required />
+
+
+
+            <label id="name-label" asp-for="Biller_type">Biller type</label>
+            <input type="text"
+                   asp-for="Biller_type"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <label id="name-label" asp-for="Service_Provider">Service Provider</label>
+            <input type="text"
+                   asp-for="Service_Provider"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <label id="name-label" asp-for="Ration">Ratio</label>
+            <input type="text"
+                   asp-for="Ration"
+                   id="name"
+                   class="form-control"
+                   placeholder="$"
+                   required />
+
+            <label id="name-label" asp-for="SVC_Booking">Svc Booking</label>
+            <input type="text"
+                   asp-for="SVC_Booking"
+                   id="name"
+                   class="form-control"
+                   placeholder="$"
+                   required />
+
+            <label id="name-label" asp-for="Qty_week">Qty Week</label>
+            <input type="text"
+                   asp-for="Qty_week"
+                   id="name"
+                   class="form-control"
+                   placeholder="$"
+                   required />
+
+            <label id="name-label" asp-for="Week">Week</label>
+            <input type="text"
+                   asp-for="Week"
+                   id="name"
+                   class="form-control"
+                   placeholder="Week"
+                   required />
+
+            <label id="name-label" asp-for="Total_units">Total Unit</label>
+            <input type="text"
+                   asp-for="Total_units"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <label id="name-label" asp-for="Unit_of_measure">Unit of Measure</label>
+            <input type="text"
+                   asp-for="Unit_of_measure"
+                   id="name"
+                   class="form-control"
+                   placeholder="Hour"
+                   required />
+
+            <label id="name-label" asp-for="Unit_Price">Unit Price</label>
+            <input type="text"
+                   asp-for="Unit_Price"
+                   id="name"
+                   class="form-control"
+                   placeholder="$"
+                   required />
+
+            <label id="name-label" asp-for="Total_price">Total Price</label>
+            <input type="text"
+                   asp-for="Total_price"
+                   id="name"
+                   class="form-control"
+                   placeholder="$"
+                   required />
+
+            <label id="name-label" asp-for="Description_of_costs">Description of costs</label>
+            <input type="text"
+                   asp-for="Description_of_costs"
+                   id="name"
+                   class="form-control"
+                   placeholder="$"
+                   required />
+
+            <h6>Biller</h6>
+            <select id="dropdown" asp-for="Biller" class="form-control" required>
+                @*<option disabled selected value>Select current role</option>*@
+                <option value="student">Client Funded</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+
+            <h6>Notes</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Notes">
+
+            </textarea>
+
+            <label id="name-label" asp-for="Debtor">Debtor</label>
+            <input type="text"
+                   asp-for="Debtor"
+                   id="name"
+                   class="form-control"
+                   placeholder="$"
+                   required />
+        </div>
+
+
+
+        <div class="form-group">
+            <button type="submit" id="submit" class="submit-button">
+                Save & Publish
+            </button>
+        </div>
+
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+
+
+    </form>
+</div>
+
+
+
+
+

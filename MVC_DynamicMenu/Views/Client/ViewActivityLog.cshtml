@@ -1,0 +1,580 @@
+﻿@model MVC_DynamicMenu.Models.Client
+
+@{
+    ViewData["Title"] = "AddNewClient";
+}
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <h1 id="title" class="text-center">View A Active Log</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form asp-action="" id="survey-form">
+        <div class="form-group">
+            <label id="name-label" asp-for="Clients">Participant</label>
+            <input type="text"
+                   asp-for="Clients"
+                   id="name"
+                   class="form-control"
+                   placeholder="Enter your name"
+                   required />
+        </div>
+        @*Date Start*@
+        <label asp-for="EntryDate">Entry Date</label>
+        <input type="date" asp-for="EntryDate" id="dateofbirth">
+
+        @*Hierarchy Start*@
+        <div class="form-group">
+            <p>Hierarchy</p>
+            <select id="dropdown" asp-for="Hierarchy" class="form-control" required>
+                @*<option disabled selected value>Select current role</option>*@
+                <option value="student">New</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+        </div>
+
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+
+
+
+
+
+        @*Transport*@
+        <button type="button" class="accordion">Transport</button>
+        <div class="panel">
+            <div class="form-group">
+
+                <p>Transport</p>
+                <h6>AM Transport</h6>
+                <label>
+                    <input asp-for="AM_Transport"
+                           value="Community Transport"
+                           type="radio"
+                           class="input-radio"
+                           checked />Community Transport
+                </label>
+                <label>
+                    <input asp-for="AM_Transport"
+                           value="Family"
+                           type="radio"
+                           class="input-radio" />Family
+                </label>
+
+                <label>
+                    <input asp-for="AM_Transport"
+                           value="Own Transport"
+                           type="radio"
+                           class="input-radio" />Own Transport
+                </label>
+                <label>
+                    <input asp-for="AM_Transport"
+                           value="Public Transport"
+                           type="radio"
+                           class="input-radio" />Public Transport
+                </label>
+                <label>
+                    <input asp-for="AM_Transport"
+                           value="Service Provider(Bus or Car)"
+                           type="radio"
+                           class="input-radio" />Service Provider
+                </label>
+                <label>
+                    <input asp-for="AM_Transport"
+                           value="Taxi"
+                           type="radio"
+                           class="input-radio" />Taxi
+                </label>
+                <label>
+                    <input asp-for="AM_Transport"
+                           value="Car"
+                           type="radio"
+                           class="input-radio" />Car
+                </label>
+                <h6>PM Transport</h6>
+                <label>
+                    <input asp-for="PM_Transport"
+                           value="Community Transport"
+                           type="radio"
+                           class="input-radio"
+                           checked />Community Transport
+                </label>
+                <label>
+                    <input asp-for="PM_Transport"
+                           value="Family"
+                           type="radio"
+                           class="input-radio" />Family
+                </label>
+
+                <label>
+                    <input asp-for="PM_Transport"
+                           value="Own Transport"
+                           type="radio"
+                           class="input-radio" />Own Transport
+                </label>
+                <label>
+                    <input asp-for="PM_Transport"
+                           value="Public Transport"
+                           type="radio"
+                           class="input-radio" />Public Transport
+                </label>
+                <label>
+                    <input asp-for="PM_Transport"
+                           value="Service Provider(Bus or Car)"
+                           type="radio"
+                           class="input-radio" />Service Provider
+                </label>
+                <label>
+                    <input asp-for="PM_Transport"
+                           value="Taxi"
+                           type="radio"
+                           class="input-radio" />Taxi
+                </label>
+                <label>
+                    <input asp-for="PM_Transport"
+                           value="Car"
+                           type="radio"
+                           class="input-radio" />Car
+                </label>
+            </div>
+
+            <script type="text/javascript">
+                const projectName = 'survey-form';
+
+            </script>
+
+        </div>
+
+
+
+        @*Activity Information*@
+        <button type="button" class="accordion">Activity Information</button>
+        <div class="panel">
+            <p>Activity Information</p>
+            <label asp-for="ActivityStartDate">Activity Start Date</label>
+            <input type="date" asp-for="ActivityStartDate" id="dateofbirth">
+
+            <label asp-for="ActivityEndDate">Activity End Date</label>
+            <input type="date" asp-for="ActivityEndDate" id="dateofbirth">
+
+            <div class="form-group">
+                <label asp-for="TimeFrom">Time</label>
+                <div class="input-group time" id="timepicker">
+                    <input asp-for="TimeFrom" class="form-control" placeholder="HH:MM AM/PM" /><span class="input-group-append input-group-addon"><span class="input-group-text"><i class="fa fa-clock"></i></span></span>
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <label id="name-label" asp-for="Location">Location</label>
+                <input type="text"
+                       asp-for="Location"
+                       id="name"
+                       class="form-control"
+                       placeholder="Enter your name"
+                       required />
+            </div>
+
+
+            <div class="form-group">
+                <label id="name-label" asp-for="PersonAttending">Person's Attending</label>
+                <input type="text"
+                       asp-for="PersonAttending"
+                       id="name"
+                       class="form-control"
+                       placeholder="Enter your name"
+                       required />
+            </div>
+
+            <div class="form-group">
+                <p>Activity Scheduled</p>
+                <label>
+                    <input asp-for="ActivityScheduled"
+                           value="definitely"
+                           type="radio"
+                           class="input-radio"
+                           checked />Emergancy
+                </label>
+                <label>
+                    <input asp-for="ActivityScheduled"
+                           value="maybe"
+                           type="radio"
+                           class="input-radio" />Planned
+                </label>
+
+                <label>
+                    <input asp-for="ActivityScheduled"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Unplanned
+                </label>
+            </div>
+            <div class="form-group">
+                <p>Activity Scheduled</p>
+                <label>
+                    <input asp-for="ClientAttendend"
+                           value="definitely"
+                           type="radio"
+                           class="input-radio"
+                           checked />Yes
+                </label>
+                <label>
+                    <input asp-for="ClientAttendend"
+                           value="maybe"
+                           type="radio"
+                           class="input-radio" />No
+                </label>
+            </div>
+
+
+            <script type="text/javascript">
+                const projectName = 'survey-form';
+
+            </script>
+        </div>
+
+
+
+        @*Activity*@
+        <button type="button" class="accordion">Activity</button>
+        <div class="panel">
+            <div class="form-group">
+                <p>Activity</p>
+                <p>Primary Purpose of Activity</p>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="definitely"
+                           type="radio"
+                           class="input-radio"
+                           checked />Center Based Program
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="maybe"
+                           type="radio"
+                           class="input-radio" />Community Parbcipation
+                </label>
+
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Culture Engagment
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Daily Planning Meeting
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Education
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Employment
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Family contact Face to Face
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Family Contact Phone
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Identy Devolopment
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Leaving Care
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Leagel Goverment Appoiment
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Lesure,Sport,Recreation
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Living Skills
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Medical
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Respite
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Reference Person Meeting
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Social Skills
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Theragy Session
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Vocation
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Volunteering
+                </label>
+                <label>
+                    <input asp-for="PrimaryPurposeOfActivity"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Other(Specify)
+                </label>
+
+            </div>
+            <div class="form-group">
+
+
+                <p>Activity(Modify each organisation)</p>
+                <label>
+                    <input asp-for="Activity_ModifyEachOrganisations"
+                           value="definitely"
+                           type="radio"
+                           class="input-radio"
+                           checked />Act
+                </label>
+                <label>
+                    <input asp-for="Activity_ModifyEachOrganisations"
+                           value="maybe"
+                           type="radio"
+                           class="input-radio" />BBQ
+                </label>
+
+                <label>
+                    <input asp-for="Activity_ModifyEachOrganisations"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Cooking
+                </label>
+                <label>
+                    <input asp-for="Activity_ModifyEachOrganisations"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Outing
+                </label>
+                <label>
+                    <input asp-for="Activity_ModifyEachOrganisations"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Shoping
+                </label>
+                <label>
+                    <input asp-for="Activity_ModifyEachOrganisations"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Sport Participation
+                </label>
+                <label>
+                    <input asp-for="Activity_ModifyEachOrganisations"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />In home Tasks
+                </label>
+                <label>
+                    <input asp-for="Activity_ModifyEachOrganisations"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Meeting Attendance
+                </label>
+                <label>
+                    <input asp-for="Activity_ModifyEachOrganisations"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />School
+                </label>
+                <label>
+                    <input asp-for="Activity_ModifyEachOrganisations"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Center Activity
+                </label>
+                <label>
+                    <input asp-for="Activity_ModifyEachOrganisations"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />GP Appoiment
+                </label>
+                <label>
+                    <input asp-for="Activity_ModifyEachOrganisations"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Allied Health Appointment
+                </label>
+                <label>
+                    <input nasp-for="Activity_ModifyEachOrganisations"
+                           value="not-sure"
+                           type="radio"
+                           class="input-radio" />Plan Review
+                </label>
+
+
+            </div>
+
+            <script type="text/javascript">
+                const projectName = 'survey-form';
+
+            </script>
+
+        </div>
+
+        @*Outcomes*@
+        <button type="button" class="accordion">Outcomes</button>
+        <div class="panel">
+            <div class="form-group">
+
+                <p>Outcomes</p>
+                <h6>Specify Activity Purpose</h6>
+                <textarea id="comments"
+                          class="input-textarea"
+                          asp-for="SpecifyActivityPurpos"
+                          placeholder="Goals..."></textarea>
+            </div>
+
+            <div class="form-group">
+
+                <h6>Describe Outcomes </h6>
+                <textarea id="comments"
+                          class="input-textarea"
+                          asp-for="DescribeOutcomes"
+                          placeholder="What Happened..."></textarea>
+            </div>
+            <div class="form-group">
+
+
+                <h6>Issues & Followup Required</h6>
+                <textarea id="comments"
+                          class="input-textarea"
+                          asp-for="IssuesAndFollowupRequired"
+                          placeholder="Issues..."></textarea>
+            </div>
+
+
+
+            <script type="text/javascript">
+                const projectName = 'survey-form';
+
+            </script>
+
+        </div>
+
+
+        <button type="button" class="accordion">Attachment</button>
+        <div class="panel">
+            @*Attachment*@
+            <div class="form-group">
+                <p>Attachment</p>
+                <h6>Plese attach relevant documents photos etc.</h6>
+
+            </div>
+
+
+
+
+
+
+            <script type="text/javascript">
+                const projectName = 'survey-form';
+
+            </script>
+        </div>
+
+
+
+
+
+        @*Completion & Sign-off*@
+
+
+        <div class="form-group">
+            <p>Completion & Sign-off</p>
+            <label id="name-label" for="name">Staff Member Name</label>
+            <input type="text"
+                   asp-for="StaffMemberName"
+                   id="name"
+                   class="form-control"
+                   placeholder="Select Staff"
+                   required />
+        </div>
+
+
+
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+
+
+
+
+
+        <div class="form-group">
+
+        </div>
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+    </form>
+</div>
+
+
+
+

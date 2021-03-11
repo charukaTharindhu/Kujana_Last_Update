@@ -1,0 +1,177 @@
+﻿
+@model MVC_DynamicMenu.Models.LogSchedule
+@{
+    ViewData["Title"] = "Home page";
+}
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <h1 id="title" class="text-center">Add New Schedule Log</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form asp-action="AddNewLog" id="survey-form">
+        <div class="form-group">
+
+            <p>Participent(s)</p>
+            <input type="hidden" asp-for="ReferenceID" value="@ViewBag.Id"/>
+            <label asp-for="Scheduled_start_date">Scheduled Start Date</label>
+            <input type="date" asp-for="Scheduled_start_date" id="dateofbirth">
+
+            <h6>Shedule Start Time</h6>
+            <select id="dropdown" asp-for="Scheduled_start_time" class="form-control" required>
+                @*<option disabled selected value>Select current role</option>*@
+                <option value="student">New</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+
+            <label asp-for="Scheduled_finish_date">Scheduled Finish Date</label>
+            <input type="date" asp-for="Scheduled_finish_date" id="dateofbirth">
+
+            <h6>Shedule Finish Time</h6>
+            <select id="dropdown" asp-for="Scheduled_finish_time" class="form-control" required>
+                @*<option disabled selected value>Select current role</option>*@
+                <option value="student">New</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+
+            <label asp-for="Actual_start_date">Actual Start Date</label>
+            <input type="date" asp-for="Actual_start_date" id="dateofbirth">
+
+            <h6>Actual Start Time</h6>
+            <select id="dropdown" asp-for="Actual_start_time" class="form-control" required>
+                @*<option disabled selected value>Select current role</option>*@
+                <option value="student">New</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+
+            <label asp-for="Actual_finish_date">Actual Finish Date</label>
+            <input type="date" sp-for="Actual_finish_date" id="dateofbirth">
+
+            <h6>Actual Finish Time</h6>
+            <select id="dropdown" asp-for="Actual_finish_time" class="form-control" required>
+                @*<option disabled selected value>Select current role</option>*@
+                <option value="student">New</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+
+
+
+            <h6>Activity Category</h6>
+            <select id="dropdown" asp-for="Activity_category" class="form-control" required>
+                @*<option disabled selected value>Select current role</option>*@
+                <option value="student">New</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+
+            <h6>Activity</h6>
+            <select id="dropdown" asp-for="Activity_category" class="form-control" required>
+                @*<option disabled selected value>Select current role</option>*@
+                <option value="student">New</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+
+            <label id="name-label" asp-for="Persons_attending">Persons Attending</label>
+            <input type="text"
+                   asp-for="Persons_attending"
+                   id="name"
+                   class="form-control"
+                   required />
+        </div>
+
+
+
+        <div class="form-group">
+
+            <p>Outcomes</p>
+            <h6>Specify Activity Purpose</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Specific_activity_purpose"
+                      placeholder="Goals..."></textarea>
+        </div>
+
+        <div class="form-group">
+
+            <h6>Describe Outcomes </h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Describe_outcome"
+                      placeholder="What Happened..."></textarea>
+        </div>
+        <div class="form-group">
+
+
+            <h6>Issues & Followup Required</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Issues_and_followup_requried"
+                      placeholder="Issues..."></textarea>
+        </div>
+
+        <div class="form-group">
+
+
+            <h6>Service & Billing Notes</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Service_and_billing_note"></textarea>
+        </div>
+
+        <h6>Staff</h6>
+        <select id="dropdown" asp-for="Staff" class="form-control" required>
+            @*<option disabled selected value>Select current role</option>*@
+            <option value="student">New</option>
+            <option value="job">Full Time Job</option>
+            <option value="learner">Full Time Learner</option>
+            <option value="preferNo">Prefer not to say</option>
+            <option value="other">Other</option>
+        </select>
+
+
+        <h6>Finish Time</h6>
+        <select id="dropdown" asp-for="Finish_time" class="form-control" required>
+            @*<option disabled selected value>Select current role</option>*@
+            <option value="student">New</option>
+            <option value="job">Full Time Job</option>
+            <option value="learner">Full Time Learner</option>
+            <option value="preferNo">Prefer not to say</option>
+            <option value="other">Other</option>
+        </select>
+
+        <div class="form-group">
+            <input type="submit" value="Create" class="btn btn-primary" />
+        </div>
+
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+    </form>
+</div>
+
+
+
+
+

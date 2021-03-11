@@ -1,0 +1,110 @@
+﻿
+@model MVC_DynamicMenu.Models.NewTherapyLog
+@{
+    ViewData["Title"] = "Home page";
+}
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <h1 id="title" class="text-center">Form : Therapy Log</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form asp-action="" id="survey-form">
+        <div class="form-group">
+            <label id="name-label" asp-for="Client_Name">Participant</label>
+            <input type="text"
+                   asp-for="Client_Name"
+                   id="name"
+                   class="form-control"
+                   placeholder="Enter your name"
+                   required />
+        </div>
+        @*Date Start*@
+        <label asp-for="Client_Name">Entry Date</label>
+        <input type="date" asp-for="Entry_date" id="dateofbirth">
+
+        @*Hierarchy Start*@
+        <div class="form-group">
+            <p>Hierarchy</p>
+            <select id="dropdown" asp-for="Hierarchy" class="form-control" required>
+                @*<option disabled selected value>Select current role</option>*@
+                <option value="student">New</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+        </div>
+
+        <button type="button" class="accordion">Mental Threapy </button>
+        <div class="panel">
+            <p>>Mental Therapy</p>
+            <label id="name-label" asp-for="Mental_Duration_Time">Duration Time</label>
+            <input type="text"
+                   asp-for="Mental_Duration_Time"
+                   id="name"
+                   class="form-control"
+                   placeholder="Enter your name"
+                   required />
+
+            <h6>Before Therapy</h6>
+            <textarea id="comments" class="input-textarea" asp-for="Mental_Before_Therapy"></textarea>
+
+            <h6>After Therapy</h6>
+            <textarea id="comments" class="input-textarea" asp-for="Mental_After_Therapy"></textarea>
+
+            <h6>Mental Exercises</h6>
+            <textarea id="comments" class="input-textarea" asp-for="Mental_Exercises"></textarea>
+
+            <h6>Client Concerns</h6>
+            <textarea id="comments" class="input-textarea" asp-for="Mental_Client_Concerns"></textarea>
+
+            <h6>Mental Status</h6>
+            <textarea id="comments" class="input-textarea" asp-for="Mental_Status"></textarea>
+        </div>
+        <button type="button" class="accordion">Physical Therapy</button>
+        <div class="panel">
+            <p>>Physical Therapy</p>
+            <label id="name-label" asp-for="Physical_Duration_Time">Duration Time</label>
+            <input type="text"
+                   asp-for="Physical_Duration_Time"
+                   id="name"
+                   class="form-control"
+                   placeholder="Enter your name"
+                   required />
+
+            <h6>Before Therapy</h6>
+            <textarea id="comments" class="input-textarea" asp-for="Physical_Before_Therapy"></textarea>
+
+            <h6>After Therapy</h6>
+            <textarea id="comments" class="input-textarea" asp-for="Physical_After_Therapy"></textarea>
+
+            <h6>Physical Exercises</h6>
+            <textarea id="comments" class="input-textarea" asp-for="Physical_Exercises"></textarea>
+
+            <h6>Client Concerns</h6>
+            <textarea id="comments" class="input-textarea" asp-for="Physical_Client_Concerns"></textarea>
+
+            <h6>Physical Status</h6>
+            <textarea id="comments" class="input-textarea" asp-for="Physical_Status"></textarea>
+        </div>
+
+
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+    </form>
+</div>
+
+
+
+
+
+
+
+

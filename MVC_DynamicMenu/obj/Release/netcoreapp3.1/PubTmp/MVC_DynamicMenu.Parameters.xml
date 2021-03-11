@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="KujanaMVC" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\projects\\Kujana_Last_Dev\ \(2\)\\Kujana_Last_Dev\\kujana\ with\ login\\DynamicMenuBar-master\\MVC_DynamicMenu\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

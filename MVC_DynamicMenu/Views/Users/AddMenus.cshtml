@@ -1,0 +1,17 @@
+﻿@model List<Menus> 
+@{
+    ViewData["Title"] = "AddMenus";
+}
+
+<h1>AddMenus</h1>
+<form method="post">
+    <label asp-for="@Model[0].Menu">Client Entry</label>
+    <input type="radio" asp-for="@Model[0].Menu" value="Client Entry" />
+    <input type="hidden" asp-for="@Model[0].Url" value="/ClientEntry" />
+
+    <label asp-for="@Model[0].Menu">Reports</label>
+    <input type="radio" asp-for="@Model[1].Menu" value="Reports" />
+    <input type="hidden" asp-for="@Model[1].Url" value="/reports" />
+
+    <input type="submit" name="name" value="submit" />
+</form>

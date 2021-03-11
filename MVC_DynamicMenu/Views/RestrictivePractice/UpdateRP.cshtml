@@ -1,0 +1,264 @@
+﻿@model MVC_DynamicMenu.Models.AddNewRestrictivePraticeRecord
+@{
+    ViewData["Title"] = "Home page";
+}
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <h1 id="title" class="text-center">Add A New Restrictive Practice Record</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form asp-action="UpdateRP" id="survey-form">
+        <div class="form-group">
+            <label id="name-label" asp-for="Client">Participant</label>
+            <input type="text"
+                   asp-for="Client"
+                   id="name"
+                   class="form-control"
+                   placeholder="Enter your name"
+                 
+                   required />
+
+           
+        </div>
+        @*Date Start*@
+        <label asp-for="EntryDate">Entry Date</label>
+        <input type="date" asp-for="EntryDate" id="dateofbirth">
+
+        @*Hierarchy Start*@
+        <div class="form-group">
+            <p>Hierarchy</p>
+            <select id="dropdown" asp-for="Hierarchy" class="form-control" required>
+                @*<option disabled selected value>Select current role</option>*@
+                <option value="student">New</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="preferNo">Prefer not to say</option>
+                <option value="other">Other</option>
+            </select>
+        </div>
+
+        @*Participant Details*@
+        <div class="form-group">
+            <p>Participant Details</p>
+            <label id="name-label" asp-for="NDIS_practice_number">NDIS Participant Number</label>
+            <input type="text"
+                   asp-for="NDIS_practice_number"
+                   id="name"
+                   class="form-control"
+                   required />
+        </div>
+
+        @*Restrictive Practice Use*@
+        <button type="button" class="accordion">Restrictive Practice Use</button>
+        <div class="panel">
+            <div class="form-group">
+                <p>Restrictive Practice Use</p>
+                <h6>Info Text For This Form</h6>
+                <h6>Organisation many vary on there perfernce for documenting some field. You may wish to instruction on how to complete this forn for your users.</h6>
+                <p>Date Reestrictive Practice Used</p>
+
+                <label asp-for="Date_restrictive_practice_used">Entry Date</label>
+                <input type="date" asp-for="Date_restrictive_practice_used" id="dateofbirth">
+
+                <p>Participant Details</p>
+                <label id="name-label" asp-for="Time_commenced">Time Commenced</label>
+                <input type="text"
+                       asp-for="Time_commenced"
+                       id="name"
+                       class="form-control"
+                       required />
+
+                <p>Participant Details</p>
+                <label id="name-label" asp-for="Time_ceased">Time Ceased</label>
+                <input type="text"
+                       asp-for="Time_ceased"
+                       id="name"
+                       class="form-control"
+                       required />
+
+                <p>Participant Details</p>
+                <label id="name-label" asp-for="Duration_minutes">Duration(Minutes)</label>
+                <input type="text"
+                       asp-for="Duration_minutes"
+                       id="name"
+                       class="form-control"
+                       required />
+
+
+                <h6>What Type of Restrictive Practice Used?</h6>
+                <label>
+                    <input asp-for="What_type_of_restrictive_practice_used"
+                           value="Selection"
+                           type="radio"
+                           class="input-radio"
+                           checked />Selection
+                </label>
+                <label>
+                    <input asp-for="What_type_of_restrictive_practice_used"
+                           value="Chemical"
+                           type="radio"
+                           class="input-radio" />Chemical
+                </label>
+
+                <label>
+                    <input asp-for="What_type_of_restrictive_practice_used"
+                           value="Mechanical"
+                           type="radio"
+                           class="input-radio" />Mechanical
+                </label>
+                <label>
+                    <input asp-for="What_type_of_restrictive_practice_used"
+                           value="Physical"
+                           type="radio"
+                           class="input-radio" />Physical
+                </label>
+                <label>
+                    <input asp-for="What_type_of_restrictive_practice_used"
+                           value="Environmental"
+                           type="radio"
+                           class="input-radio" />Environmental
+                </label>
+
+
+                <h6>Brief Description of the Practice</h6>
+                <textarea id="comments"
+                          class="input-textarea"
+                          asp-for="Brief_description_of_the_practice"></textarea>
+
+
+
+                <label id="name-label" asp-for="Routine_or_PRN">Routine or PRN</label>
+                <input type="text"
+                       asp-for="Routine_or_PRN"
+                       id="name"
+                       class="form-control"
+                       required />
+
+                <label id="name-label" asp-for="Number_of_time_used">Number of Times Used</label>
+                <input type="text"
+                       asp-for="Number_of_time_used"
+                       id="name"
+                       class="form-control"
+                       required />
+
+                <label id="name-label" asp-for="Incident_report_refference_number">Incident Report referance number</label>
+                <input type="text"
+                       asp-for="Incident_report_refference_number"
+                       id="name"
+                       class="form-control"
+                       required />
+
+                <h6>Circumstances before using Restrictive Practice</h6>
+                <textarea id="comments"
+                          class="input-textarea"
+                          asp-for="Circumstances_before_using_restrictive_practice"></textarea>
+            </div>
+        </div>
+        @*Related Behaviour of Concern*@
+        <button type="button" class="accordion">Related Behaviour of Concern</button>
+        <div class="panel">
+            <p>Related Behaviour of Concern</p>
+            <label id="name-label" asp-for="Related_behaviour_of_Concem">Related Behaviour of Concern</label>
+            <input type="text"
+                   asp-for="Related_behaviour_of_Concem"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <h6>If Other,Please Specify</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="If_other_please_specify"></textarea>
+
+            <label id="name-label" asp-for="PlaneID">Plan ID</label>
+            <input type="text"
+                   asp-for="PlaneID"
+                   id="name"
+                   class="form-control"
+                   required />
+            <label id="name-label" asp-for="If_no_planeID_select_the_relevent_BSP_status">If No Plan ID, select the relevant BSP Status</label>
+            <input type="text"
+                   asp-for="If_no_planeID_select_the_relevent_BSP_status"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <label id="name-label" asp-for="Authorised_status">Authorised Status</label>
+            <input type="text"
+                   asp-for="Authorised_status"
+                   id="name"
+                   class="form-control"
+                   required />
+        </div>
+        @*Details of Medication*@
+        <button type="button" class="accordion">Details of Medication</button>
+        <div class="panel">
+            <p>Details of Medication</p>
+            <h6>Medication</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Medication"></textarea>
+
+            <h6>Dosage</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Dosage"></textarea>
+
+            <label id="name-label" asp-for="Unite_of_Measurment">Unit of Measurement</label>
+            <input type="text"
+                   asp-for="Unite_of_Measurment"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <label id="name-label" asp-for="Frequency">Frequency</label>
+            <input type="text"
+                   asp-for="Frequency"
+                   id="name"
+                   class="form-control"
+                   required />
+        </div>
+        @*Completion & Sign-off*@
+
+        <div class="form-group">
+            <p>Completion & Sign-off</p>
+            <label id="name-label" asp-for="StaffName">Staff Member Name</label>
+            <input type="text"
+                   asp-for="StaffName"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <h6>Signature</h6>
+            <textarea id="comments"
+                      class="input-textarea"
+                      asp-for="Signature"></textarea>
+
+
+            <label id="name-label" asp-for="Name">Name</label>
+            <input type="text"
+                   asp-for="Name"
+                   id="name"
+                   class="form-control"
+                   required />
+
+            <button type="submit" id="submit" class="submit-button">
+                Submit
+            </button>
+
+        </div>
+
+
+
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+    </form>
+</div>
+

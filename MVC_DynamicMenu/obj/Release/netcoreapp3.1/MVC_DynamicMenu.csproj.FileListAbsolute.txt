@@ -1,0 +1,1012 @@
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\appsettings.json
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.exe
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.deps.json
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.runtimeconfig.json
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.runtimeconfig.dev.json
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.pdb
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.Views.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.Views.pdb
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\FSharp.Core.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\FSharp.Data.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\FSharp.Core.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\FSharp.Core.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\en\FSharp.Core.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\FSharp.Core.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\FSharp.Core.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\FSharp.Core.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\FSharp.Core.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\FSharp.Core.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\FSharp.Core.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\FSharp.Core.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\FSharp.Core.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.csprojAssemblyReference.cache
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.AssemblyInfoInputs.cache
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.AssemblyInfo.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.csproj.CoreCompileInputs.cache
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.MvcApplicationPartsAssemblyInfo.cache
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorAssemblyInfo.cache
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorAssemblyInfo.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\staticwebassets\MVC_DynamicMenu.StaticWebAssets.Manifest.cache
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\staticwebassets\MVC_DynamicMenu.StaticWebAssets.xml
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\scopedcss\bundle\MVC_DynamicMenu.styles.css
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.TagHelpers.input.cache
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.TagHelpers.output.cache
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorCoreGenerate.cache
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\AddNewFoodAndFluid\AddNewFoodAndFluid.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\AddNewFoodAndFluid\ShowAllFoodAndFluid.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\AddNewFoodAndFluid\UpdateFoodAndFluid.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\AddRoleOptions.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\CreateRole.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\EditRole.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\GetRoles.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\Staff.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\UpdateUser.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Client\ActiveLogMain.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Client\AddNewClient.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Client\UpdateActivityLog.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Client\ViewActivityLog.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\EmergencyFireEvacutionDrill\ShowAllFD.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\EmergencyFireEvacutionDrill\UpdateFD.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Medication\AddMedication.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Medication\MedicationMain.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Medication\View.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\MentalHealthReview\AddNewMHReviews.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\MentalHealthReview\ShowAllMHReviews.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\MentalHealthReview\UpdateMHReviews.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBehaviorLog\AddNewBehavior.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBehaviorLog\BehaviourLog.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBehaviorLog\UpdateBehaviourLog.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBudgetAgreement\AddNewBudgetAgreement.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBudgetAgreement\ShowAllBA.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBudgetAgreement\UpdateBA.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewFortnightlySafety\AddNewFS.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewFortnightlySafety\ShowAllFS.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewFortnightlySafety\UpdateFS.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewIncident\AddNewIncident.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewIncident\Incident.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewIncident\UpdateIncident.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Patient\AddNewPatient.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Patient\ShowPatients.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Patient\UpdatePatient.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\PSA35\AddNewPSA35.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\PSA35\ShowAllPSA35.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\PSA35\UpdatePSA35.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\RestrictivePractice\AddNewRestrictivePractice.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\RestrictivePractice\ShowAllRestrctivePractices.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\RestrictivePractice\UpdateRP.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\AddNewLog.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\AddNewSS.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\ShowAllSS.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\ShowServiceLog.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\UpdateSL.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\UpdateSS.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogAM\AddNewShiftLogAM.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogAM\GetAllAddNewShiftLogAM.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogAM\UpdateShiftLogAM.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogNight\AddNewShiftLogNight.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogNight\GetAllAddNewShiftLogNight.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogNight\UpdateShiftLogNight.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogPM\AddNewShiftLogPM.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogPM\GetAllAddNewShiftLogPM.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogPM\UpdateShiftLogPM.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SLES\AddNewSLES.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SLES\getALLSLESProgresses.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\StaffAndMeeting\AddNewStaffMeeting.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\StaffAndMeeting\GetAllSM.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SupportCoordination\AddNewSupportCoordination.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SupportCoordination\ShowAllSupportCoordinations.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SupportCoordination\UpdateSupportC.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\UserPemission\Index.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\AddMenus.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\AddUser.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\ShowUsers.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\UpdateUser.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorTargetAssemblyInfo.cache
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorTargetAssemblyInfo.cs
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.Views.pdb
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.csproj.CopyComplete
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.dll
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.pdb
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.genruntimeconfig.cache
+C:\projects\Kujana_Last_Dev (2)\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\EmergencyFireEvacutionDrill\AddNewFireDrill.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.exe
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.deps.json
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.runtimeconfig.json
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.runtimeconfig.dev.json
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.pdb
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.Views.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.Views.pdb
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\FSharp.Core.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\FSharp.Data.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\en\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.csprojAssemblyReference.cache
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.AssemblyInfoInputs.cache
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.AssemblyInfo.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.csproj.CoreCompileInputs.cache
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorAssemblyInfo.cache
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorAssemblyInfo.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\staticwebassets\MVC_DynamicMenu.StaticWebAssets.Manifest.cache
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\staticwebassets\MVC_DynamicMenu.StaticWebAssets.xml
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\scopedcss\bundle\MVC_DynamicMenu.styles.css
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.TagHelpers.input.cache
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.TagHelpers.output.cache
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorCoreGenerate.cache
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\AddNewFoodAndFluid\AddNewFoodAndFluid.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\AddNewFoodAndFluid\ShowAllFoodAndFluid.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\AddNewFoodAndFluid\UpdateFoodAndFluid.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\AddRoleOptions.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\CreateRole.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\EditRole.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\GetRoles.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\Staff.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\UpdateUser.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Client\ActiveLogMain.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Client\AddNewClient.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Client\UpdateActivityLog.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Client\ViewActivityLog.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\EmergencyFireEvacutionDrill\AddNewFireDrill.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\EmergencyFireEvacutionDrill\ShowAllFD.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\EmergencyFireEvacutionDrill\UpdateFD.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Medication\AddMedication.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Medication\MedicationMain.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\MentalHealthReview\AddNewMHReviews.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\MentalHealthReview\ShowAllMHReviews.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\MentalHealthReview\UpdateMHReviews.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBehaviorLog\AddNewBehavior.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBehaviorLog\BehaviourLog.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBehaviorLog\UpdateBehaviourLog.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBudgetAgreement\AddNewBudgetAgreement.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBudgetAgreement\ShowAllBA.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBudgetAgreement\UpdateBA.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewFortnightlySafety\AddNewFS.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewFortnightlySafety\ShowAllFS.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewFortnightlySafety\UpdateFS.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewIncident\AddNewIncident.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewIncident\Incident.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewIncident\UpdateIncident.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Patient\AddNewPatient.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Patient\ShowPatients.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Patient\UpdatePatient.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\PSA35\AddNewPSA35.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\PSA35\ShowAllPSA35.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\PSA35\UpdatePSA35.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\RestrictivePractice\AddNewRestrictivePractice.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\RestrictivePractice\ShowAllRestrctivePractices.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\RestrictivePractice\UpdateRP.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\AddNewLog.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\AddNewSS.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\ShowAllSS.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\UpdateSL.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogAM\AddNewShiftLogAM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogAM\GetAllAddNewShiftLogAM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogAM\UpdateShiftLogAM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogNight\AddNewShiftLogNight.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogNight\GetAllAddNewShiftLogNight.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogNight\UpdateShiftLogNight.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogPM\AddNewShiftLogPM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogPM\GetAllAddNewShiftLogPM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogPM\UpdateShiftLogPM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SLES\AddNewSLES.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\StaffAndMeeting\AddNewStaffMeeting.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\StaffAndMeeting\GetAllSM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SupportCoordination\AddNewSupportCoordination.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SupportCoordination\ShowAllSupportCoordinations.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SupportCoordination\UpdateSupportC.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\UserPemission\Index.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\AddMenus.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\AddUser.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\ShowUsers.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\UpdateUser.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorTargetAssemblyInfo.cache
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorTargetAssemblyInfo.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.Views.pdb
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.csproj.CopyComplete
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.dll
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.pdb
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.genruntimeconfig.cache
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\AddNewFoodAndFluid\ViewFoodAndFluid.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\EmergencyFireEvacutionDrill\ViewFD.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBehaviorLog\ViewBehaviourLog.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBudgetAgreement\ViewBA.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewFortnightlySafety\ViewFS.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewIncident\ViewIncident.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Patient\ViewPatient.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\PSA35\ViewPSA35.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\RestrictivePractice\ViewRP.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogAM\ViewShiftLogAM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogNight\ViewShiftLogNight.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogPM\ViewShiftLogPM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SupportCoordination\ViewSupportC.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\MentalHealthReview\ViewMHReviews.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\TherapyLog\AddNewTL.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\TherapyLog\ShowAllTL.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\TherapyLog\UpdateTL.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\TherapyLog\ViewTL.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Medication\EditPlan.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Medication\PlanView.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\ShowLogSchedule.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SLES\ShowALLSLESProgresses.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SLES\UpdateSLES.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SLES\ViewSLES.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\StaffAndMeeting\UpdateSM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Manu\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\StaffAndMeeting\ViewSM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.exe
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.deps.json
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.runtimeconfig.json
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.runtimeconfig.dev.json
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.pdb
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.Views.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.Views.pdb
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\FSharp.Core.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\FSharp.Data.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\en\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.csprojAssemblyReference.cache
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.AssemblyInfoInputs.cache
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.AssemblyInfo.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.csproj.CoreCompileInputs.cache
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorAssemblyInfo.cache
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorAssemblyInfo.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\staticwebassets\MVC_DynamicMenu.StaticWebAssets.Manifest.cache
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\staticwebassets\MVC_DynamicMenu.StaticWebAssets.xml
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\scopedcss\bundle\MVC_DynamicMenu.styles.css
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.TagHelpers.input.cache
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.TagHelpers.output.cache
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorCoreGenerate.cache
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\AddNewFoodAndFluid\AddNewFoodAndFluid.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\AddNewFoodAndFluid\ShowAllFoodAndFluid.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\AddNewFoodAndFluid\UpdateFoodAndFluid.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\AddNewFoodAndFluid\ViewFoodAndFluid.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\AddRoleOptions.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\CreateRole.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\EditRole.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\GetRoles.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\Staff.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\UpdateUser.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Client\ActiveLogMain.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Client\AddNewClient.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Client\UpdateActivityLog.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Client\ViewActivityLog.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\EmergencyFireEvacutionDrill\AddNewFireDrill.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\EmergencyFireEvacutionDrill\ShowAllFD.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\EmergencyFireEvacutionDrill\UpdateFD.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\EmergencyFireEvacutionDrill\ViewFD.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Medication\AddMedication.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Medication\EditPlan.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Medication\MedicationMain.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Medication\PlanView.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\MentalHealthReview\AddNewMHReviews.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\MentalHealthReview\ShowAllMHReviews.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\MentalHealthReview\UpdateMHReviews.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\MentalHealthReview\ViewMHReviews.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBehaviorLog\AddNewBehavior.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBehaviorLog\BehaviourLog.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBehaviorLog\UpdateBehaviourLog.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBehaviorLog\ViewBehaviourLog.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBudgetAgreement\AddNewBudgetAgreement.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBudgetAgreement\ShowAllBA.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBudgetAgreement\UpdateBA.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBudgetAgreement\ViewBA.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewFortnightlySafety\AddNewFS.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewFortnightlySafety\ShowAllFS.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewFortnightlySafety\UpdateFS.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewFortnightlySafety\ViewFS.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewIncident\AddNewIncident.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewIncident\Incident.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewIncident\UpdateIncident.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewIncident\ViewIncident.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Patient\AddNewPatient.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Patient\ShowPatients.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Patient\UpdatePatient.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Patient\ViewPatient.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\PSA35\AddNewPSA35.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\PSA35\ShowAllPSA35.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\PSA35\UpdatePSA35.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\PSA35\ViewPSA35.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\RestrictivePractice\AddNewRestrictivePractice.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\RestrictivePractice\ShowAllRestrctivePractices.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\RestrictivePractice\UpdateRP.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\RestrictivePractice\ViewRP.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\AddNewLog.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\AddNewSS.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\ShowAllSS.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\ShowLogSchedule.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\UpdateSL.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogAM\AddNewShiftLogAM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogAM\GetAllAddNewShiftLogAM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogAM\UpdateShiftLogAM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogAM\ViewShiftLogAM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogNight\AddNewShiftLogNight.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogNight\GetAllAddNewShiftLogNight.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogNight\UpdateShiftLogNight.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogNight\ViewShiftLogNight.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogPM\AddNewShiftLogPM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogPM\GetAllAddNewShiftLogPM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogPM\UpdateShiftLogPM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogPM\ViewShiftLogPM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SLES\AddNewSLES.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SLES\ShowALLSLESProgresses.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SLES\UpdateSLES.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SLES\ViewSLES.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\StaffAndMeeting\AddNewStaffMeeting.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\StaffAndMeeting\GetAllSM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\StaffAndMeeting\UpdateSM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\StaffAndMeeting\ViewSM.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SupportCoordination\AddNewSupportCoordination.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SupportCoordination\ShowAllSupportCoordinations.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SupportCoordination\UpdateSupportC.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SupportCoordination\ViewSupportC.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\TherapyLog\AddNewTL.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\TherapyLog\ShowAllTL.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\TherapyLog\UpdateTL.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\TherapyLog\ViewTL.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\UserPemission\Index.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\AddMenus.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\AddUser.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\ShowUsers.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\UpdateUser.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorTargetAssemblyInfo.cache
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorTargetAssemblyInfo.cs
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.Views.pdb
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.csproj.CopyComplete
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.dll
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.pdb
+C:\Users\CHARUKA\Desktop\Kujana_Last_Dev\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.genruntimeconfig.cache
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.csprojAssemblyReference.cache
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.AssemblyInfoInputs.cache
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.AssemblyInfo.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.csproj.CoreCompileInputs.cache
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.MvcApplicationPartsAssemblyInfo.cache
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorAssemblyInfo.cache
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorAssemblyInfo.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.pdb
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\staticwebassets\MVC_DynamicMenu.StaticWebAssets.Manifest.cache
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\staticwebassets\MVC_DynamicMenu.StaticWebAssets.xml
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\scopedcss\bundle\MVC_DynamicMenu.styles.css
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.TagHelpers.input.cache
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.TagHelpers.output.cache
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorCoreGenerate.cache
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\AddNewFoodAndFluid\AddNewFoodAndFluid.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\AddNewFoodAndFluid\ShowAllFoodAndFluid.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\AddNewFoodAndFluid\UpdateFoodAndFluid.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\AddNewFoodAndFluid\ViewFoodAndFluid.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\AddRoleOptions.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\CreateRole.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\EditRole.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\GetRoles.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\Staff.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Admin\UpdateUser.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Client\ActiveLogMain.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Client\AddNewClient.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Client\UpdateActivityLog.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Client\ViewActivityLog.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\EmergencyFireEvacutionDrill\AddNewFireDrill.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\EmergencyFireEvacutionDrill\ShowAllFD.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\EmergencyFireEvacutionDrill\UpdateFD.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\EmergencyFireEvacutionDrill\ViewFD.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Medication\AddMedication.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Medication\EditPlan.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Medication\MedicationMain.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Medication\PlanView.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\MentalHealthReview\AddNewMHReviews.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\MentalHealthReview\ShowAllMHReviews.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\MentalHealthReview\UpdateMHReviews.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\MentalHealthReview\ViewMHReviews.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBehaviorLog\AddNewBehavior.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBehaviorLog\BehaviourLog.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBehaviorLog\UpdateBehaviourLog.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBehaviorLog\ViewBehaviourLog.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBudgetAgreement\AddNewBudgetAgreement.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBudgetAgreement\ShowAllBA.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBudgetAgreement\UpdateBA.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewBudgetAgreement\ViewBA.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewFortnightlySafety\AddNewFS.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewFortnightlySafety\ShowAllFS.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewFortnightlySafety\UpdateFS.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewFortnightlySafety\ViewFS.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewIncident\AddNewIncident.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewIncident\Incident.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewIncident\UpdateIncident.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\NewIncident\ViewIncident.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Patient\AddNewPatient.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Patient\ShowPatients.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Patient\UpdatePatient.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Patient\ViewPatient.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\PSA35\AddNewPSA35.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\PSA35\ShowAllPSA35.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\PSA35\UpdatePSA35.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\PSA35\ViewPSA35.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\RestrictivePractice\AddNewRestrictivePractice.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\RestrictivePractice\ShowAllRestrctivePractices.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\RestrictivePractice\UpdateRP.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\RestrictivePractice\ViewRP.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\AddNewLog.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\AddNewSS.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\ShowAllSS.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\ShowLogSchedule.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ServiceSchedules\UpdateSL.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogAM\AddNewShiftLogAM.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogAM\GetAllAddNewShiftLogAM.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogAM\UpdateShiftLogAM.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogAM\ViewShiftLogAM.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogNight\AddNewShiftLogNight.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogNight\GetAllAddNewShiftLogNight.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogNight\UpdateShiftLogNight.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogNight\ViewShiftLogNight.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogPM\AddNewShiftLogPM.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogPM\GetAllAddNewShiftLogPM.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogPM\UpdateShiftLogPM.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\ShiftLogPM\ViewShiftLogPM.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SLES\AddNewSLES.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SLES\ShowALLSLESProgresses.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SLES\UpdateSLES.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SLES\ViewSLES.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\StaffAndMeeting\AddNewStaffMeeting.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\StaffAndMeeting\GetAllSM.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\StaffAndMeeting\UpdateSM.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\StaffAndMeeting\ViewSM.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SupportCoordination\AddNewSupportCoordination.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SupportCoordination\ShowAllSupportCoordinations.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SupportCoordination\UpdateSupportC.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\SupportCoordination\ViewSupportC.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\TherapyLog\AddNewTL.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\TherapyLog\ShowAllTL.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\TherapyLog\UpdateTL.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\TherapyLog\ViewTL.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\UserPemission\Index.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\AddMenus.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\AddUser.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\ShowUsers.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Users\UpdateUser.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorTargetAssemblyInfo.cache
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.RazorTargetAssemblyInfo.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\appsettings.Development.json
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\appsettings.json
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.exe
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.deps.json
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.runtimeconfig.json
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.runtimeconfig.dev.json
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.pdb
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.Views.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\MVC_DynamicMenu.Views.pdb
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\FSharp.Core.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\FSharp.Data.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\FSharp.Core.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\FSharp.Core.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\en\FSharp.Core.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\FSharp.Core.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\FSharp.Core.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\FSharp.Core.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\FSharp.Core.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\FSharp.Core.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\FSharp.Core.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\FSharp.Core.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\FSharp.Core.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.Views.pdb
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.csproj.CopyComplete
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\MVC_DynamicMenu.genruntimeconfig.cache
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Patient_Contact\AddNewParticipant.cshtml.g.cs
+F:\Kujana\Kujana_Last_Dev-new\Kujana_Last_Dev\kujana with login\DynamicMenuBar-master\MVC_DynamicMenu\obj\Release\netcoreapp3.1\Razor\Views\Patient_Contact\AddNewParticipant - Copy.cshtml.g.cs

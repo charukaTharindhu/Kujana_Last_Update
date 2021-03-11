@@ -1,0 +1,134 @@
+﻿
+@model MVC_DynamicMenu.Models.NewBudgetAgreement
+@{
+    ViewData["Title"] = "Home page";
+}
+<head>
+    <link href="~/css/Addfile.css" rel="stylesheet" />
+</head>
+<div class="container">
+    <header class="header">
+        <h1 id="title" class="text-center">Update A Budget Agreement</h1>
+        <p id="description" class="description text-center">
+
+        </p>
+    </header>
+    <form asp-action="UpdateBA" id="survey-form">
+        <div class="form-group">
+            <label id="name-label" asp-for="Client_Name">Participant</label>
+            <input type="text"
+                   asp-for="Client_Name"
+                   id="name"
+                   class="form-control"
+                   placeholder="Enter your name"
+                   required />
+        </div>
+
+        <input type="hidden" asp-for="ClientID" />
+        @*Date Start*@
+        <label asp-for="Start_Date">Start Date</label>
+        <input type="date" asp-for="Start_Date" id="dateofbirth">
+
+        <label asp-for="End_Date">End Date</label>
+        <input type="date" asp-for="End_Date" id="dateofbirth">
+
+        @*Allocated Support Budgets*@
+    <div class="form-group">
+
+        <div class="form-group">
+            <p>Allocated Support Budgets</p>
+            <div class="row">
+                <div class="col-md-8">
+                    <label id="name-label">Select Program</label>
+                    <input type="text"
+                           asp-for="Select_Program"
+                           id="selectpro"
+                           class="form-control"
+                           required />
+
+                    <label id="name-label">Support Purpose</label>
+                    <input type="text"
+                           asp-for="Support_purpose"
+                           id="supportpur"
+                           class="form-control"
+                           required />
+
+                    <label id="name-label">Support Category</label>
+                    <input type="text"
+                           asp-for="Support_category"
+                           id="supportcat"
+                           class="form-control"
+                           required />
+                </div>
+                <div class="col-md-4">
+                    <label id="name-label">Biller type</label>
+                    <input type="text"
+                           asp-for="Biler_type"
+                           id="billerty"
+                           class="form-control"
+                           placeholder="$"
+                           required />
+
+                </div>
+
+            </div>
+            <div class="row mt-4">
+                <div class="col-md-6">
+                    <label id="name-label">Budget</label>
+                    <input type="text"
+                           asp-for="Budget"
+                           id="budgets"
+                           class="form-control"
+                           placeholder="$"
+                           required />
+                </div>
+                <div class="col-md-6">
+                    <label id="name-label">Remaining Budget</label>
+                    <input type="text"
+                           asp-for="Remaining_budget"
+                           id="rembudget"
+                           class="form-control"
+                           placeholder="$"
+                           required />
+                </div>
+
+            </div>
+            <div class="row mt-4">
+                <div class="col-md-2">
+
+                </div>
+            </div>
+        </div>
+
+
+
+        <h6>Notes</h6>
+        <textarea id="comments"
+                  class="input-textarea"
+                  asp-for="Notes">
+
+            </textarea>
+
+
+    </div>
+
+
+        <div class="form-group">
+            <button type="submit" id="submit" class="submit-button">
+                Save & Publish
+            </button>
+        </div>
+
+        <script type="text/javascript">
+            const projectName = 'survey-form';
+
+        </script>
+
+
+    </form>
+</div>
+
+
+
+
+
